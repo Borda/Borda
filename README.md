@@ -4,7 +4,6 @@
 
 <!--
 **Borda/Borda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
 
@@ -16,10 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ![Jirka's github stats](https://github-readme-stats.vercel.app/api?username=borda&show_icons=true&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borda&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Sourcerer](https://sourcerer.io/icons/logo-sharing.svg)](https://sourcerer.io/borda)
+-->
