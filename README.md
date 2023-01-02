@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=borda&color=green)
+![Visit counter](https://komarev.com/ghpvc/?username=borda&color=green)
+
+I am working in Machine learning and Data science for several years. I have done my Ph.D. in Medical Imaging. I have gained practical experience while working for a few IT companies as a consultant, data scientist, or research engineer. Actually, I am focusing on exploring interesting world problems and solving them with state-of-the-art techniques.
+
+**Academic track:** I have [published](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) several journal articles and papers on international conferences such as ISBI, ICIP, ACCV, and MICCAI workshops. I am also a [reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for these conferences and some other IEEE journals. I was the main organizer of the [ANHIR challenge](https://anhir.grand-challenge.org/).
+
+**Developer track:** I have created several open-source python packages, and I am a leading contributor to `PyTorch-Lightning` and other Lightning projects. I also actively participate in other well-known projects like `auto-sklearn`, `yolov5`, `dipy`, etc. with writing code, reporting issues, building CI/CD, and reviewing PRs.
+
+**Manager track:** I led a small team while developing a video analysis tool. I have been leading & managing the Lightning team responsible for our open-source projects.
 
 <!--
 **Borda/Borda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
