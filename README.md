@@ -6,7 +6,7 @@ I am working in Machine learning and Data science for several years. I have done
 
 **Academic track:** I have [published](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) several journal articles and papers on international conferences such as ISBI, ICIP, ACCV, and MICCAI workshops. I am also a [reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for these conferences and some other IEEE journals. I was the main organizer of the [ANHIR challenge](https://anhir.grand-challenge.org/).
 
-**Developer track:** I have created several open-source python packages, and I am a leading contributor to `PyTorch-Lightning` and other Lightning projects. I also actively participate in other well-known projects like `auto-sklearn`, `yolov5`, `dipy`, etc. with writing code, reporting issues, building CI/CD, and reviewing PRs.
+**Developer track:** I have created several [open-source](https://ossinsight.io/analyze/Borda) python packages, and I am a leading contributor to `PyTorch-Lightning` and other Lightning projects. I also actively participate in other well-known projects like `auto-sklearn`, `yolov5`, `dipy`, etc. with writing code, reporting issues, building CI/CD, and reviewing PRs.
 
 **Manager track:** I led a small team while developing a video analysis tool. I have been leading & managing the Lightning team responsible for our open-source projects.
 
