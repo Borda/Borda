@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Visit counter](https://komarev.com/ghpvc/?username=borda&color=green)
+### Hi there 👋 ![Visit counter](https://komarev.com/ghpvc/?username=borda&color=green)
 
 I am working in Machine learning and Data science for several years. I have done my Ph.D. in Medical Imaging. I have gained practical experience while working for a few IT companies as a consultant, data scientist, or research engineer. Actually, I am focusing on exploring interesting world problems and solving them with state-of-the-art techniques.
 
@@ -46,4 +44,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/jirka-borovec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jirka-borovec" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/jirkaborovec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jirkaborovec" height="30" width="40" /></a>
 <a href="https://medium.com/@jborovec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jborovec" height="30" width="40" /></a>
+<a href="[https://medium.com/@jborovec](https://stackoverflow.com/users/4521646/jirka)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jirka" height="30" width="40" /></a>
 </p>
