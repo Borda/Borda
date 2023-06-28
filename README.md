@@ -1,10 +1,10 @@
 ### Hi there 👋 ![Visit counter](https://komarev.com/ghpvc/?username=borda&color=green)
 
-I am working in Machine learning and Data science for several years. I have done my Ph.D. in Medical Imaging. I have gained practical experience while working for a few IT companies as a consultant, data scientist, or research engineer. Actually, I am focusing on exploring interesting world problems and solving them with state-of-the-art techniques.
+I have been working in Machine learning and Data science for several years. I have done my Ph.D. in Medical Imaging. I have gained practical experience working for a few IT companies as a consultant, data scientist, or research engineer. I am focusing on exploring interesting world problems and solving them with state-of-the-art techniques.
 
-**Academic track:** I have [published](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) several journal articles and papers on international conferences such as ISBI, ICIP, ACCV, and MICCAI workshops. I am also a [reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for these conferences and some other IEEE journals. I was the main organizer of the [ANHIR challenge](https://anhir.grand-challenge.org/).
+**Academic track:** I have [published](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) several journal articles and papers on international conferences such as ISBI, ICIP, ACCV, and MICCAI workshops. I am also a [reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for these conferences and other IEEE journals. I was the main organizer of the [ANHIR challenge](https://anhir.grand-challenge.org/).
 
-**Developer track:** I have created several [open-source](https://ossinsight.io/analyze/Borda) python packages, and I am a leading contributor to `PyTorch-Lightning` and other Lightning projects. I also actively participate in other well-known projects like `auto-sklearn`, `yolov5`, `dipy`, etc. with writing code, reporting issues, building CI/CD, and reviewing PRs.
+**Developer track:** I have created several [open-source](https://ossinsight.io/analyze/Borda) Python packages, and I am a leading contributor to `PyTorch-Lightning` and other Lightning projects. I also actively participate in other well-known projects like `auto-sklearn`, `yolov5`, `dipy`, etc., with writing code, reporting issues, building CI/CD, and reviewing PRs.
 
 **Manager track:** I led a small team while developing a video analysis tool. I have been leading & managing the Lightning team responsible for our open-source projects.
 
@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@jborovec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jborovec" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4521646/jirka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jirka" height="30" width="40" /></a>
 </p>
+
+![Metrics](https://metrics.lecoq.io/borda?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FPrague)
