@@ -1,8 +1,11 @@
 ### Hi there 👋 ![Visit counter](https://komarev.com/ghpvc/?username=borda&color=green)
 
-I have been working in Machine learning and Data science for several years. I have done my Ph.D. in Medical Imaging. I have gained practical experience working for a few IT companies as a consultant, data scientist, or research engineer. I am focusing on exploring interesting world problems and solving them with state-of-the-art techniques.
+I have been working in Machine learning and Data science for several years. I have done my Ph.D. in Medical Imaging. I have gained practical experience working for a few IT companies as a consultant, data scientist, or research engineer. I focus on exploring interesting world problems and solving them with state-of-the-art techniques.
 
 **Academic track:** I have [published](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) several journal articles and papers on international conferences such as ISBI, ICIP, ACCV, and MICCAI workshops. I am also a [reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for these conferences and other IEEE journals. I was the main organizer of the [ANHIR challenge](https://anhir.grand-challenge.org/).
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-%23A6CE39?logo=orcid)](https://orcid.org/0000-0001-7437-824X)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Jiri_Borovec-%2300d0af?logo=researchgate)](https://www.researchgate.net/profile/Jiri-Borovec)
 
 **Developer track:** I have created several [open-source](https://ossinsight.io/analyze/Borda) Python packages, and I am a leading contributor to `PyTorch-Lightning` and other Lightning projects. I also actively participate in other well-known projects like `auto-sklearn`, `yolov5`, `dipy`, etc., with writing code, reporting issues, building CI/CD, and reviewing PRs.
 
