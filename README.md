@@ -33,10 +33,12 @@ Here are some ideas to get you started:
 
 ![simple GH stats](https://github-readme-stats.vercel.app/api?username=Borda&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true)
 
+<!--
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jirkaborovec/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jirkaborovec/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jirkaborovec/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jirkaborovec/discussion/light)
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borda&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -63,4 +65,6 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<!--
 ![Metrics](https://metrics.lecoq.io/borda?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FPrague)
+-->
