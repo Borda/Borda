@@ -6,9 +6,9 @@ I’m Jirka Borovec (Borda), a Machine Learning and Data Science researcher with
 
 ## 🚀 Academic Track [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-%23A6CE39?logo=orcid)](https://orcid.org/0000-0001-7437-824X) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Jiri_Borovec-%2300d0af?logo=researchgate)](https://www.researchgate.net/profile/Jiri-Borovec)
 
-- Ph.D. in Medical Imaging, Czech Technical University in Prague  
-- [Published](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) 15+ journal articles and 20+ conference papers (ISBI, ICIP, ACCV, MICCAI workshops)  
-- [Reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for IEEE TMI, TCIA and major international conferences  
+- Ph.D. in Medical Imaging, Czech Technical University in Prague
+- [Published](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) 15+ journal articles and 20+ conference papers (ISBI, ICIP, ACCV, MICCAI workshops)
+- [Reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for IEEE TMI, TCIA and major international conferences
 - Co-organized the [ANHIR challenge](https://anhir.grand-challenge.org/) on histological image registration
 
 ---
@@ -17,13 +17,13 @@ I’m Jirka Borovec (Borda), a Machine Learning and Data Science researcher with
 
 - Created & maintain several [open-source](https://ossinsight.io/analyze/Borda) Python packages
 - Core maintainer of PyTorch Lightning: pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes
-- Contributed code, CI/CD pipelines, issue reports and reviews to projects like auto-sklearn, YOLOv5, DIPY and more  
+- Contributed code, CI/CD pipelines, issue reports and reviews to projects like auto-sklearn, YOLOv5, DIPY and more
 
 ---
 
 ## 📈 Manager Track [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Jirka--Borovec-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jirka-borovec)
 
-- Built and led a team to deliver a scalable video-analysis platform from prototype to production  
+- Built and led a team to deliver a scalable video-analysis platform from prototype to production
 - Head of the Lightning open-source team: coordinating feature roadmaps, release cycles and mentoring contributors across Lightning ecosystem
 
 ---
