@@ -4,7 +4,7 @@ I’m Jirka Borovec (Borda), a Machine Learning and Data Science researcher with
 
 ______________________________________________________________________
 
-## 🚀 Academic Track [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-%23A6CE39?logo=orcid)](https://orcid.org/0000-0001-7437-824X) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Jiri_Borovec-%2300d0af?logo=researchgate)](https://www.researchgate.net/profile/Jiri-Borovec)
+## 🚀 Academic Track [![ResearchGate](https://img.shields.io/badge/ResearchGate-Jiri_Borovec-%2300d0af?logo=researchgate)](https://www.researchgate.net/profile/Jiri-Borovec) [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-%23A6CE39?logo=orcid)](https://orcid.org/0000-0001-7437-824X)
 
 - Ph.D. in Medical Imaging, Czech Technical University in Prague
 - [Published](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) 15+ journal articles and 20+ conference papers (ISBI, ICIP, ACCV, MICCAI workshops)
