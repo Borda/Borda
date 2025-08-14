@@ -9,7 +9,7 @@ I’m Jirka Borovec (Borda), a Machine Learning and Data Science researcher with
 - Ph.D. in Medical Imaging, Czech Technical University in Prague  
 - [Published](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) 15+ journal articles and 20+ conference papers (ISBI, ICIP, ACCV, MICCAI workshops)  
 - [Reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for IEEE TMI, TCIA and major international conferences  
-- Co-organized the [ANHIR challenge](https://anhir.grand-challenge.org/) challenge on histological image registration
+- Co-organized the [ANHIR challenge](https://anhir.grand-challenge.org/) on histological image registration
 
 ---
 
