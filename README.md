@@ -16,8 +16,8 @@ ______________________________________________________________________
 ## 🛠 Developer Track [![OSS Insight Profile](https://img.shields.io/badge/OSS%20Insight-Borda-blue?style=flat-square)](https://ossinsight.io/analyze/Borda)
 
 - Created & maintain several [open-source](https://ossinsight.io/analyze/Borda) Python packages
-- Core maintainer of PyTorch Lightning: pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes
 - Contributed code, CI/CD pipelines, issue reports and reviews to projects like auto-sklearn, YOLOv5, DIPY and more
+- Core maintainer of PyTorch Lightning: pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes
 
 ______________________________________________________________________
 
