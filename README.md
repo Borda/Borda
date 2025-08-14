@@ -17,7 +17,7 @@ ______________________________________________________________________
 
 - Created & maintain several [open-source](https://ossinsight.io/analyze/Borda) Python packages
 - Contributed code, CI/CD pipelines, issue reports and reviews to projects like auto-sklearn, YOLOv5, DIPY and more
-- Core maintainer of PyTorch Lightning: _pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes_
+- Core maintainer of PyTorch Lightning: _pretrain, fine-tune ANY AI model of ANY size on multiple GPUs with zero code changes_
 
 ______________________________________________________________________
 
