@@ -65,9 +65,6 @@ Here are some ideas to get you started:
 ## 🌐 Get in Touch:
 
 <p align="left">
-<a href="https://twitter.com/JirkaBorovec" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JirkaBorovec" height="30" width="40" />
-</a>
 <a href="https://www.linkedin.com/in/jirka-borovec/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jirka-borovec" height="30" width="40" />
 </a>
