@@ -10,14 +10,14 @@ repos:
     hooks:
       - id: end-of-file-fixer
       - id: trailing-whitespace
-      # - id: check-json
+      - id: check-json
       - id: check-yaml
       - id: check-added-large-files
         args: ["--maxkb=100", "--enforce-all"]
       - id: detect-private-key
 
   - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.22
+    rev: 1.0.0
     hooks:
       - id: mdformat
         additional_dependencies:
