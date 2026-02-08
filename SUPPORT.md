@@ -44,7 +44,7 @@ I'm available for **consulting, contract, and advisory engagements** in the foll
 
 ### Get in touch
 
-📧 Reach out via [LinkedIn](https://www.linkedin.com/in/jirka-borovec/) or open a [GitHub Discussion](https://github.com/Borda/Borda/discussions) to start a conversation.
+📧 Reach out via [LinkedIn](https://www.linkedin.com/in/jirka-borovec/) to start a conversation.
 
 ______________________________________________________________________
 

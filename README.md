@@ -15,7 +15,7 @@ ______________________________________________________________________
 
 ### 🎓 Academic Track
 
-- Ph.D. in Medical Imaging — [Czech Technical University in Prague](https://cvut.cz)
+- Ph.D. in Medical Imaging — [Czech Technical University in Prague](https://fel.cvut.cz/)
 - [15+ journal articles & 20+ conference papers](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) (ISBI, ICIP, ACCV, MICCAI workshops)
 - [Reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for IEEE TMI, TCIA and major international conferences
 - Co-organized the [ANHIR challenge](https://anhir.grand-challenge.org/) on histological image registration
@@ -49,25 +49,25 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
 
 **Emeritus maintainer** — projects I co-created and still partially supervise:
 
-| Project                                                                     | Stars                                                                                              | Description                                                              |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [⚡ PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning)   | ![stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat-square)     | Pretrain, fine-tune ANY AI model on multiple GPUs with zero code changes |
-| [📏 TorchMetrics](https://github.com/Lightning-AI/torchmetrics)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=flat-square)          | Machine learning metrics for distributed, scalable PyTorch apps          |
-| [🛠️ Lightning Utilities](https://github.com/Lightning-AI/utilities)         | ![stars](https://img.shields.io/github/stars/Lightning-AI/utilities?style=flat-square)             | Shared utilities across the Lightning ecosystem                          |
+| Project                                                                   | Stars                                                                                          | Description                                                              |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [⚡ PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) | ![stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat-square) | Pretrain, fine-tune ANY AI model on multiple GPUs with zero code changes |
+| [📏 TorchMetrics](https://github.com/Lightning-AI/torchmetrics)           | ![stars](https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=flat-square)      | Machine learning metrics for distributed, scalable PyTorch apps          |
+| [🛠️ Lightning Utilities](https://github.com/Lightning-AI/utilities)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/utilities?style=flat-square)         | Shared utilities across the Lightning ecosystem                          |
 
 <details>
 <summary><b>📦 Past projects</b></summary>
 
 **Past core maintainer projects:**
 
-| Project                                                 | Stars                                                                                 | Description                                            |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [🔥 LitGPT](https://github.com/Lightning-AI/litgpt)     | ![stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square)   | Pretrain, fine-tune, deploy 20+ LLMs on your own data  |
-| [🚀 LitServe](https://github.com/Lightning-AI/LitServe) | ![stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square) | Lightning-fast serving engine for AI models            |
-| [💾 LitData](https://github.com/Lightning-AI/litData)   | ![stars](https://img.shields.io/github/stars/Lightning-AI/litData?style=flat-square)  | Blazingly fast, distributed streaming of training data |
-| [🔩 Lightning Bolts](https://github.com/Lightning-Universe/lightning-bolts) | ![stars](https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=flat-square) | Community-contributed models, callbacks & datamodules for Lightning      |
-| [⚡ Lightning Flash](https://github.com/Lightning-AI/lightning-flash)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-flash?style=flat-square)       | Fast AI prototyping & transfer learning toolkit                          |
-| [🔄 Ecosystem CI](https://github.com/Lightning-AI/ecosystem-ci)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/ecosystem-ci?style=flat-square)          | Automated compatibility testing across the Lightning ecosystem           |
+| Project                                                                     | Stars                                                                                              | Description                                                         |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [🔥 LitGPT](https://github.com/Lightning-AI/litgpt)                         | ![stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square)                | Pretrain, fine-tune, deploy 20+ LLMs on your own data               |
+| [🚀 LitServe](https://github.com/Lightning-AI/LitServe)                     | ![stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square)              | Lightning-fast serving engine for AI models                         |
+| [💾 LitData](https://github.com/Lightning-AI/litData)                       | ![stars](https://img.shields.io/github/stars/Lightning-AI/litData?style=flat-square)               | Blazingly fast, distributed streaming of training data              |
+| [🔩 Lightning Bolts](https://github.com/Lightning-Universe/lightning-bolts) | ![stars](https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=flat-square) | Community-contributed models, callbacks & datamodules for Lightning |
+| [⚡ Lightning Flash](https://github.com/Lightning-AI/lightning-flash)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-flash?style=flat-square)       | Fast AI prototyping & transfer learning toolkit                     |
+| [🔄 Ecosystem CI](https://github.com/Lightning-AI/ecosystem-ci)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/ecosystem-ci?style=flat-square)          | Automated compatibility testing across the Lightning ecosystem      |
 
 **Past research projects:**
 
@@ -109,10 +109,6 @@ and [more...](https://ossinsight.io/analyze/Borda)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jirkaborovec/discussion/light)
 -->
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borda&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 ______________________________________________________________________
 
 ### 💖 Support & Consulting
@@ -128,7 +124,3 @@ ______________________________________________________________________
 [![Kaggle](https://img.shields.io/badge/Kaggle-jirkaborovec-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jirkaborovec)
 [![Medium](https://img.shields.io/badge/Medium-@jborovec-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jborovec)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-jirka-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4521646/jirka)
-
-<!--
-![Metrics](https://metrics.lecoq.io/borda?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FPrague)
--->
