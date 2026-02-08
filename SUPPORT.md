@@ -17,10 +17,10 @@ Your sponsorship helps me dedicate more time to:
 
 **Ways to sponsor:**
 
-| Platform        | Link          |
-| --------------- | ------------- |
+| Platform        | Link                                                           |
+| --------------- | -------------------------------------------------------------- |
 | GitHub Sponsors | [github.com/sponsors/Borda](https://github.com/sponsors/Borda) |
-| Buy Me a Coffee | _coming soon_ |
+| Buy Me a Coffee | _coming soon_                                                  |
 
 > Even a small contribution keeps the lights on and the CI green 💚
 
