@@ -20,14 +20,11 @@ jobs:
         with:
           # default args: "--verbose --no-progress './**/*.md' './**/*.html' './**/*.rst'"
           args: |
+            --accept 403
             --verbose
             --no-progress
             './**/*.md'
             './**/*.yml'
             './**/*.yaml'
             --include-verbatim
-            --exclude https://medium.com/@jborovec
-            --exclude https://ossinsight.io/*
-            --exclude https://scholar.google.com/citations?user=0MFN7VkAAAAJ
-            --exclude https://www.researchgate.net/profile/Jiri-Borovec
           fail: true
