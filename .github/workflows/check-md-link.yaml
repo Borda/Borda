@@ -27,4 +27,5 @@ jobs:
             './**/*.yml'
             './**/*.yaml'
             --include-verbatim
+            --exclude https://ossinsight.io/analyze/Borda
           fail: true
