@@ -4,7 +4,7 @@ Hi! I'm **Jirka Borovec** — a Machine Learning researcher, open-source maintai
 
 Over the years I've contributed thousands of commits to projects like **PyTorch Lightning**, **TorchMetrics**, **roboflow/supervision**, and many others. I believe great software should be open, well-tested, and accessible to everyone.
 
----
+______________________________________________________________________
 
 ## ☕ Sponsor My OSS Activities
 
@@ -17,14 +17,14 @@ Your sponsorship helps me dedicate more time to:
 
 **Ways to sponsor:**
 
-| Platform | Link |
-|----------|------|
+| Platform        | Link          |
+| --------------- | ------------- |
 | GitHub Sponsors | _coming soon_ |
 | Buy Me a Coffee | _coming soon_ |
 
 > Even a small contribution keeps the lights on and the CI green 💚
 
----
+______________________________________________________________________
 
 ## 🤝 Hire Me — Consulting & Contract Work
 
@@ -46,6 +46,6 @@ I'm available for **consulting, contract, and advisory engagements** in the foll
 
 📧 Reach out via [LinkedIn](https://www.linkedin.com/in/jirka-borovec/) or open a [GitHub Discussion](https://github.com/Borda/Borda/discussions) to start a conversation.
 
----
+______________________________________________________________________
 
 _Thank you for supporting open source!_ 🙏
