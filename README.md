@@ -47,16 +47,13 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
 | [📈 pyRepoStats](https://github.com/Borda/pyRepoStats)    | ![stars](https://img.shields.io/github/stars/Borda/pyRepoStats?style=flat-square)      | Simple repository contribution statistics                                 |
 | [🗄️ cachier](https://github.com/python-cachier/cachier)   | ![stars](https://img.shields.io/github/stars/python-cachier/cachier?style=flat-square) | Persistent, stale-free, local & cross-machine caching for Python          |
 
-**Emeritus maintainer** — projects I co-created and now partially supervise:
+**Emeritus maintainer** — projects I co-created and still partially supervise:
 
 | Project                                                                     | Stars                                                                                              | Description                                                              |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [⚡ PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning)   | ![stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat-square)     | Pretrain, fine-tune ANY AI model on multiple GPUs with zero code changes |
 | [📏 TorchMetrics](https://github.com/Lightning-AI/torchmetrics)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=flat-square)          | Machine learning metrics for distributed, scalable PyTorch apps          |
 | [🛠️ Lightning Utilities](https://github.com/Lightning-AI/utilities)         | ![stars](https://img.shields.io/github/stars/Lightning-AI/utilities?style=flat-square)             | Shared utilities across the Lightning ecosystem                          |
-| [🔩 Lightning Bolts](https://github.com/Lightning-Universe/lightning-bolts) | ![stars](https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=flat-square) | Community-contributed models, callbacks & datamodules for Lightning      |
-| [⚡ Lightning Flash](https://github.com/Lightning-AI/lightning-flash)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-flash?style=flat-square)       | Fast AI prototyping & transfer learning toolkit                          |
-| [🔄 Ecosystem CI](https://github.com/Lightning-AI/ecosystem-ci)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/ecosystem-ci?style=flat-square)          | Automated compatibility testing across the Lightning ecosystem           |
 
 <details>
 <summary><b>📦 Past projects</b></summary>
@@ -68,6 +65,9 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
 | [🔥 LitGPT](https://github.com/Lightning-AI/litgpt)     | ![stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square)   | Pretrain, fine-tune, deploy 20+ LLMs on your own data  |
 | [🚀 LitServe](https://github.com/Lightning-AI/LitServe) | ![stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square) | Lightning-fast serving engine for AI models            |
 | [💾 LitData](https://github.com/Lightning-AI/litData)   | ![stars](https://img.shields.io/github/stars/Lightning-AI/litData?style=flat-square)  | Blazingly fast, distributed streaming of training data |
+| [🔩 Lightning Bolts](https://github.com/Lightning-Universe/lightning-bolts) | ![stars](https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=flat-square) | Community-contributed models, callbacks & datamodules for Lightning      |
+| [⚡ Lightning Flash](https://github.com/Lightning-AI/lightning-flash)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-flash?style=flat-square)       | Fast AI prototyping & transfer learning toolkit                          |
+| [🔄 Ecosystem CI](https://github.com/Lightning-AI/ecosystem-ci)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/ecosystem-ci?style=flat-square)          | Automated compatibility testing across the Lightning ecosystem           |
 
 **Past research projects:**
 
@@ -87,7 +87,16 @@ and [more...](https://ossinsight.io/analyze/Borda)
 
 ### 📊 GitHub Stats
 
-![simple GH stats](https://github-readme-stats.vercel.app/api?username=Borda&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true)
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=6035284" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=6035284&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Borda" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=6035284&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Borda&hide_border=true)

@@ -1,8 +1,8 @@
 # 💖 Support My Open-Source Work
 
-Hi! I'm **Jirka Borovec** — a Machine Learning researcher, open-source maintainer, and consultant with a Ph.D. in Medical Imaging.
+Hi! I'm **Jiri (Jirka) Borovec** — a Machine Learning researcher, open-source maintainer, and consultant with a Ph.D. in Medical Imaging.
 
-Over the years I've contributed thousands of commits to projects like **PyTorch Lightning**, **TorchMetrics**, **roboflow/supervision**, and many others. I believe great software should be open, well-tested, and accessible to everyone.
+Over the years I've contributed thousands of commits to projects like **PyTorch Lightning**, **TorchMetrics**, **Supervision**, and many others. I believe great software should be open, well-tested, and accessible to everyone.
 
 ______________________________________________________________________
 
@@ -31,10 +31,10 @@ ______________________________________________________________________
 I'm available for **consulting, contract, and advisory engagements** in the following areas:
 
 - **Machine Learning & Deep Learning** — model development, training pipelines, experiment tracking
-- **MLOps & Infrastructure** — CI/CD for ML, reproducible experiments, scalable training
-- **Computer Vision** — medical imaging, segmentation, object detection, image registration
 - **Open-Source Strategy** — project governance, community building, release management
 - **Python Engineering** — library design, testing, packaging, developer experience
+- **MLOps & Infrastructure** — CI/CD for ML, reproducible experiments, scalable training
+- **Computer Vision** — medical imaging, segmentation, object detection, image registration
 
 ### What you get
 
