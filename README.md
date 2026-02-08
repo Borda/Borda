@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Jirka Borovec
 
 ![Profile views](https://komarev.com/ghpvc/?username=borda&color=green)
+[![OSS Insight](https://img.shields.io/badge/OSS%20Insight-Borda-blue?style=flat-square)](https://ossinsight.io/analyze/Borda)
 [![committers.top badge](https://user-badge.committers.top/czech_republic_public/Borda.svg)](https://user-badge.committers.top/czech_republic_public/Borda)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jirka--Borovec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirka-borovec/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jiri%20Borovec-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0MFN7VkAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7437-824X)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Jiri%20Borovec-00d0af?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jiri-Borovec)
-[![OSS Insight](https://img.shields.io/badge/OSS%20Insight-Borda-blue?style=flat-square)](https://ossinsight.io/analyze/Borda)
 
 Machine Learning & Data Science researcher with a **Ph.D. in Medical Imaging** and years of R&D and consulting experience. I solve real-world problems by crafting state-of-the-art algorithms and turning them into robust, community-driven **Python libraries** 🐍. Passionate about open source, reproducible research, and scalable ML infrastructure.
 
