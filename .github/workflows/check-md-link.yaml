@@ -20,7 +20,7 @@ jobs:
         with:
           # default args: "--verbose --no-progress './**/*.md' './**/*.html' './**/*.rst'"
           args: |
-            --accept 403
+            --accept '200, 403'
             --verbose
             --no-progress
             './**/*.md'
