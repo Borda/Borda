@@ -49,25 +49,25 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
 
 **Emeritus maintainer** — projects I co-created and still partially supervise:
 
-| Project                                                                     | Stars                                                                                              | Description                                                              |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [⚡ PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning)   | ![stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat-square)     | Pretrain, fine-tune ANY AI model on multiple GPUs with zero code changes |
-| [📏 TorchMetrics](https://github.com/Lightning-AI/torchmetrics)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=flat-square)          | Machine learning metrics for distributed, scalable PyTorch apps          |
-| [🛠️ Lightning Utilities](https://github.com/Lightning-AI/utilities)         | ![stars](https://img.shields.io/github/stars/Lightning-AI/utilities?style=flat-square)             | Shared utilities across the Lightning ecosystem                          |
+| Project                                                                   | Stars                                                                                          | Description                                                              |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [⚡ PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) | ![stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat-square) | Pretrain, fine-tune ANY AI model on multiple GPUs with zero code changes |
+| [📏 TorchMetrics](https://github.com/Lightning-AI/torchmetrics)           | ![stars](https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=flat-square)      | Machine learning metrics for distributed, scalable PyTorch apps          |
+| [🛠️ Lightning Utilities](https://github.com/Lightning-AI/utilities)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/utilities?style=flat-square)         | Shared utilities across the Lightning ecosystem                          |
 
 <details>
 <summary><b>📦 Past projects</b></summary>
 
 **Past core maintainer projects:**
 
-| Project                                                 | Stars                                                                                 | Description                                            |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [🔥 LitGPT](https://github.com/Lightning-AI/litgpt)     | ![stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square)   | Pretrain, fine-tune, deploy 20+ LLMs on your own data  |
-| [🚀 LitServe](https://github.com/Lightning-AI/LitServe) | ![stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square) | Lightning-fast serving engine for AI models            |
-| [💾 LitData](https://github.com/Lightning-AI/litData)   | ![stars](https://img.shields.io/github/stars/Lightning-AI/litData?style=flat-square)  | Blazingly fast, distributed streaming of training data |
-| [🔩 Lightning Bolts](https://github.com/Lightning-Universe/lightning-bolts) | ![stars](https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=flat-square) | Community-contributed models, callbacks & datamodules for Lightning      |
-| [⚡ Lightning Flash](https://github.com/Lightning-AI/lightning-flash)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-flash?style=flat-square)       | Fast AI prototyping & transfer learning toolkit                          |
-| [🔄 Ecosystem CI](https://github.com/Lightning-AI/ecosystem-ci)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/ecosystem-ci?style=flat-square)          | Automated compatibility testing across the Lightning ecosystem           |
+| Project                                                                     | Stars                                                                                              | Description                                                         |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [🔥 LitGPT](https://github.com/Lightning-AI/litgpt)                         | ![stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square)                | Pretrain, fine-tune, deploy 20+ LLMs on your own data               |
+| [🚀 LitServe](https://github.com/Lightning-AI/LitServe)                     | ![stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square)              | Lightning-fast serving engine for AI models                         |
+| [💾 LitData](https://github.com/Lightning-AI/litData)                       | ![stars](https://img.shields.io/github/stars/Lightning-AI/litData?style=flat-square)               | Blazingly fast, distributed streaming of training data              |
+| [🔩 Lightning Bolts](https://github.com/Lightning-Universe/lightning-bolts) | ![stars](https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=flat-square) | Community-contributed models, callbacks & datamodules for Lightning |
+| [⚡ Lightning Flash](https://github.com/Lightning-AI/lightning-flash)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-flash?style=flat-square)       | Fast AI prototyping & transfer learning toolkit                     |
+| [🔄 Ecosystem CI](https://github.com/Lightning-AI/ecosystem-ci)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/ecosystem-ci?style=flat-square)          | Automated compatibility testing across the Lightning ecosystem      |
 
 **Past research projects:**
 
