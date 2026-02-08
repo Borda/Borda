@@ -3,26 +3,25 @@ name: Check Markdown links
 on:
   push:
   schedule:
-  # Run once a week on Sundays
-  - cron: "0 9 * * SUN"
+    # Run once a week on Sundays
+    - cron: "0 9 * * SUN"
 
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    - name: List files
-      run: ls -lh
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: List files
+        run: ls -lh
 
-    - name: Link Checker
-      uses: lycheeverse/lychee-action@v2
-      with:
-        # default args: "--verbose --no-progress './**/*.md' './**/*.html' './**/*.rst'"
-        args: |
-          --verbose
-          --no-progress
-          './**/*.md'
-          --include-verbatim
-          --exclude https://github.com/YOUR-USERNAME/REPO-NAME.git
-        fail: true
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # default args: "--verbose --no-progress './**/*.md' './**/*.html' './**/*.rst'"
+          args: |
+            --verbose
+            --no-progress
+            './**/*.md'
+            --include-verbatim
+          fail: true

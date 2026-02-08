@@ -19,7 +19,7 @@ Your sponsorship helps me dedicate more time to:
 
 | Platform        | Link          |
 | --------------- | ------------- |
-| GitHub Sponsors | _coming soon_ |
+| GitHub Sponsors | [github.com/sponsors/Borda](https://github.com/sponsors/Borda) |
 | Buy Me a Coffee | _coming soon_ |
 
 > Even a small contribution keeps the lights on and the CI green 💚

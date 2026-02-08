@@ -22,7 +22,7 @@ ______________________________________________________________________
 
 ### 🛠️ Developer Track
 
-- Created & maintain several [open-source Python packages](https://ossinsight.io/analyze/Borda) used by thousands of developers
+- Create & maintain several [open-source Python packages](https://ossinsight.io/analyze/Borda) used by thousands of developers
 - Contributed code, CI/CD pipelines, issue reports & reviews across the ML ecosystem
 - Strong focus on testing, automation, and developer experience — from pre-commit hooks to GitHub Actions
 
