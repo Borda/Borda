@@ -23,5 +23,7 @@ jobs:
             --verbose
             --no-progress
             './**/*.md'
+            './**/*.yml'
+            './**/*.yaml'
             --include-verbatim
           fail: true
