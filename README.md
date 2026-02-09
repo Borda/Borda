@@ -4,14 +4,20 @@
 [![OSS Insight](https://img.shields.io/badge/OSS%20Insight-Borda-blue?style=flat-square)](https://ossinsight.io/analyze/Borda)
 [![committers.top badge](https://user-badge.committers.top/czech_republic_public/Borda.svg)](https://user-badge.committers.top/czech_republic_public/Borda)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jirka--Borovec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirka-borovec/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jiri%20Borovec-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0MFN7VkAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7437-824X)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Jiri%20Borovec-00d0af?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jiri-Borovec)
-
 Machine Learning & Data Science researcher with a **Ph.D. in Medical Imaging** and years of R&D and consulting experience. I solve real-world problems by crafting state-of-the-art algorithms and turning them into robust, community-driven **Python libraries** 🐍. Passionate about open source, reproducible research, and scalable ML infrastructure.
 
 ______________________________________________________________________
+
+### 🛠️ Developer Track
+
+- Create & maintain several [open-source Python packages](https://ossinsight.io/analyze/Borda) used by thousands of developers
+- Contributed code, CI/CD pipelines, issue reports & reviews across the ML ecosystem
+- Strong focus on testing, automation, and developer experience — from pre-commit hooks to GitHub Actions
+
+### 🧑‍🏫 Manager Track
+
+- Built and led a team to deliver a scalable video-analysis platform from prototype to production
+- Head of the Lightning open-source team — coordinating feature roadmaps, release cycles & mentoring contributors across the [Lightning ecosystem](https://github.com/Lightning-AI)
 
 ### 🎓 Academic Track
 
@@ -20,16 +26,9 @@ ______________________________________________________________________
 - [Reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for IEEE TMI, TCIA and major international conferences
 - Co-organized the [ANHIR challenge](https://anhir.grand-challenge.org/) on histological image registration
 
-### 🛠️ Developer Track
-
-- Create & maintain several [open-source Python packages](https://ossinsight.io/analyze/Borda) used by thousands of developers
-- Contributed code, CI/CD pipelines, issue reports & reviews across the ML ecosystem
-- Strong focus on testing, automation, and developer experience — from pre-commit hooks to GitHub Actions
-
-### 🏆 Manager Track
-
-- Built and led a team to deliver a scalable video-analysis platform from prototype to production
-- Head of the Lightning open-source team — coordinating feature roadmaps, release cycles & mentoring contributors across the [Lightning ecosystem](https://github.com/Lightning-AI)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jiri%20Borovec-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0MFN7VkAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7437-824X)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Jiri%20Borovec-00d0af?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jiri-Borovec)
 
 ______________________________________________________________________
 
@@ -39,50 +38,73 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
 
 **Active projects I maintain:**
 
-| Project                                                   | Stars                                                                                  | Description                                                               |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [👁️ supervision](https://github.com/roboflow/supervision) | ![stars](https://img.shields.io/github/stars/roboflow/supervision?style=flat-square)   | Reusable computer vision tools for detection, tracking, and visualization |
-| [🎯 RF-DETR](https://github.com/roboflow/RF-DETR)         | ![stars](https://img.shields.io/github/stars/roboflow/RF-DETR?style=flat-square)       | Real-time end-to-end object detection with transformers                   |
-| [♻️ pyDeprecate](https://github.com/Borda/pyDeprecate)    | ![stars](https://img.shields.io/github/stars/Borda/pyDeprecate?style=flat-square)      | Smoothly deprecate & redirect Python functions/classes                    |
-| [📈 pyRepoStats](https://github.com/Borda/pyRepoStats)    | ![stars](https://img.shields.io/github/stars/Borda/pyRepoStats?style=flat-square)      | Simple repository contribution statistics                                 |
-| [🗄️ cachier](https://github.com/python-cachier/cachier)   | ![stars](https://img.shields.io/github/stars/python-cachier/cachier?style=flat-square) | Persistent, stale-free, local & cross-machine caching for Python          |
+- [**👁️ supervision**](https://github.com/roboflow/supervision) ![stars](https://img.shields.io/github/stars/roboflow/supervision?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/supervision?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/roboflow/supervision/badge?style=flat-square)
+  The go-to **Python toolkit** for plugging any detection or segmentation model into real-world **CV pipelines**. Unlike framework-specific tools, it works with **YOLO**, **Transformers**, or any custom model out of the box — providing a **unified API** for tracking, filtering, annotating, and chaining operations that would otherwise require glue code.
+
+- [**🎯 RF-DETR**](https://github.com/roboflow/RF-DETR) ![stars](https://img.shields.io/github/stars/roboflow/RF-DETR?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/rfdetr?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/roboflow/RF-DETR/badge?style=flat-square)
+  A new take on **real-time object detection** that brings **transformer accuracy** to YOLO-level speeds. Stands out by matching or beating state-of-the-art on **COCO** while being straightforward to fine-tune on custom datasets — no complex anchor tuning or NMS hacks needed.
+
+- [**♻️ pyDeprecate**](https://github.com/Borda/pyDeprecate) ![stars](https://img.shields.io/github/stars/Borda/pyDeprecate?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/pyDeprecate?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Borda/pyDeprecate/badge?style=flat-square)
+  Born from the pain of managing API changes in large libraries like PyTorch Lightning. A **zero-dependency** tool that lets library authors **deprecate**, rename, and redirect functions or classes with **automatic call forwarding** — so users get clear **migration warnings** instead of silent breakage.
+
+- [**🗄️ cachier**](https://github.com/python-cachier/cachier) ![stars](https://img.shields.io/github/stars/python-cachier/cachier?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/cachier?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/python-cachier/cachier/badge?style=flat-square)
+  Unlike `functools.lru_cache`, cachier **persists results** across sessions and even across machines. Ideal for caching expensive computations like API calls or data processing — supports **MongoDB** and **file-based** backends with built-in **staleness** handling, so cached results stay fresh without manual invalidation.
+
+- [**📈 pyRepoStats**](https://github.com/Borda/pyRepoStats) ![stars](https://img.shields.io/github/stars/Borda/pyRepoStats?style=flat-square) ![dependents](https://dependents.info/Borda/pyRepoStats/badge?style=flat-square)
+  Fills the gap between `git log` and full analytics platforms by generating quick **contribution stats** that include **issues** and **PR activity**. Built for maintainers who want a **lightweight health check** on their projects without setting up dashboards.
 
 **Emeritus maintainer** — projects I co-created and still partially supervise:
 
-| Project                                                                   | Stars                                                                                          | Description                                                              |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [⚡ PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) | ![stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat-square) | Pretrain, fine-tune ANY AI model on multiple GPUs with zero code changes |
-| [📏 TorchMetrics](https://github.com/Lightning-AI/torchmetrics)           | ![stars](https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=flat-square)      | Machine learning metrics for distributed, scalable PyTorch apps          |
-| [🛠️ Lightning Utilities](https://github.com/Lightning-AI/utilities)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/utilities?style=flat-square)         | Shared utilities across the Lightning ecosystem                          |
+- [**⚡ PyTorch Lightning**](https://github.com/Lightning-AI/pytorch-lightning) ![stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/pytorch-lightning?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/pytorch-lightning/badge?style=flat-square)
+  The most widely adopted framework for **scaling PyTorch** — used by thousands of teams from academic labs to Fortune 500 companies. Eliminates **training loop boilerplate** and lets the same code run on a laptop GPU or a 10,000-GPU cluster without changes, bridging the gap between research prototypes and **production systems**.
+
+- [**📏 TorchMetrics**](https://github.com/Lightning-AI/torchmetrics) ![stars](https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/torchmetrics?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/torchmetrics/badge?style=flat-square)
+  The standard metrics library for the PyTorch ecosystem, solving the surprisingly hard problem of computing correct metrics in **distributed training**. Ships **100+ metrics** for classification, regression, NLP, and retrieval — all with automatic accumulation and **device synchronization** that just works across **multi-GPU** setups.
 
 <details>
-<summary><b>📦 Past projects</b></summary>
+<summary><b>Past core maintainer projects:</b></summary>
 
-**Past core maintainer projects:**
+- [**🧠 LitGPT**](https://github.com/Lightning-AI/litgpt) ![stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/litgpt?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/litgpt/badge?style=flat-square)
+  An opinionated, **hackable** codebase for working with 20+ LLMs — GPT, Llama, Mistral, and more. Unlike heavyweight frameworks, LitGPT uses **plain PyTorch** with no abstraction layers, making it easy to modify any part of the **training pipeline** while still getting optimized performance out of the box.
 
-| Project                                                                     | Stars                                                                                              | Description                                                         |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [🔥 LitGPT](https://github.com/Lightning-AI/litgpt)                         | ![stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square)                | Pretrain, fine-tune, deploy 20+ LLMs on your own data               |
-| [🚀 LitServe](https://github.com/Lightning-AI/LitServe)                     | ![stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square)              | Lightning-fast serving engine for AI models                         |
-| [💾 LitData](https://github.com/Lightning-AI/litData)                       | ![stars](https://img.shields.io/github/stars/Lightning-AI/litData?style=flat-square)               | Blazingly fast, distributed streaming of training data              |
-| [🔩 Lightning Bolts](https://github.com/Lightning-Universe/lightning-bolts) | ![stars](https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=flat-square) | Community-contributed models, callbacks & datamodules for Lightning |
-| [⚡ Lightning Flash](https://github.com/Lightning-AI/lightning-flash)       | ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-flash?style=flat-square)       | Fast AI prototyping & transfer learning toolkit                     |
-| [🔄 Ecosystem CI](https://github.com/Lightning-AI/ecosystem-ci)             | ![stars](https://img.shields.io/github/stars/Lightning-AI/ecosystem-ci?style=flat-square)          | Automated compatibility testing across the Lightning ecosystem      |
+- [**🛠️ Lightning Utilities**](https://github.com/Lightning-AI/utilities) ![stars](https://img.shields.io/github/stars/Lightning-AI/utilities?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/lightning-utilities?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/utilities/badge?style=flat-square)
+  The shared foundation that keeps all Lightning projects consistent and maintainable. Extracts common patterns — **packaging helpers**, **testing utilities**, CLI tooling, and **CI/CD workflows** — into one place so that fixes and improvements propagate across the entire ecosystem automatically.
 
-**Past research projects:**
+- [**🚀 LitServe**](https://github.com/Lightning-AI/LitServe) ![stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/litserve?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/LitServe/badge?style=flat-square)
+  A lightweight alternative to heavy serving frameworks like Triton or vLLM for teams that need full control over their inference logic. Write your serving code in **pure Python** with built-in **batching**, **streaming**, and **GPU scaling** — deploy anywhere without **vendor lock-in**.
 
-| Project                                          | Stars                                                                          | Description                                                      |
-| ------------------------------------------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| [🖼️ pyImSegm](https://github.com/Borda/pyImSegm) | ![stars](https://img.shields.io/github/stars/Borda/pyImSegm?style=flat-square) | Superpixel segmentation & region growing for medical images      |
-| [📊 BIRL](https://github.com/Borda/BIRL)         | ![stars](https://img.shields.io/github/stars/Borda/BIRL?style=flat-square)     | Benchmark on Image Registration methods with Landmark validation |
-| [🧩 pyGCO](https://github.com/Borda/pyGCO)       | ![stars](https://img.shields.io/github/stars/Borda/pyGCO?style=flat-square)    | Python wrapper for graph-cuts-based MRF optimization             |
+- [**💾 LitData**](https://github.com/Lightning-AI/litData) ![stars](https://img.shields.io/github/stars/Lightning-AI/litData?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/litdata?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/litData/badge?style=flat-square)
+  Tackles the often-overlooked **data loading bottleneck** that slows down large-scale training. Lets you **stream** and process massive datasets on the fly without downloading everything first — turning hours of data prep into minutes with optimized **I/O** and **distributed processing**.
+
+- [**🔩 Lightning Bolts**](https://github.com/Lightning-Universe/lightning-bolts) ![stars](https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/lightning-bolts?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-Universe/lightning-bolts/badge?style=flat-square)
+  A community-driven collection of **reference implementations** — VAEs, GANs, SimCLR, and more — built on PyTorch Lightning. Designed to give researchers battle-tested **baselines** they can **reproduce** in one command and extend for their own experiments.
+
+- [**⚡ Lightning Flash**](https://github.com/Lightning-AI/lightning-flash) ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-flash?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/lightning-flash?style=flat-square&color=blueviolet)
+  Made **transfer learning** as simple as a few lines of code across **15+ tasks** — image classification, object detection, text classification, tabular data, and more. Built on PyTorch Lightning, it let practitioners go from idea to **baseline** in minutes instead of hours.
+
+- [**🔄 Ecosystem CI**](https://github.com/Lightning-AI/ecosystem-ci) ![stars](https://img.shields.io/github/stars/Lightning-AI/ecosystem-ci?style=flat-square)
+  The safety net for the entire Lightning ecosystem — automatically runs **downstream test suites** against every **nightly build** and **release candidate**. Catches **breaking changes** before they ship, ensuring that hundreds of dependent projects don't break on upgrade day.
+
+</details>
+
+<details>
+<summary><b>Past research projects:</b></summary>
+
+- [**🖼️ pyImSegm**](https://github.com/Borda/pyImSegm) ![stars](https://img.shields.io/github/stars/Borda/pyImSegm?style=flat-square) ![dependents](https://dependents.info/Borda/pyImSegm/badge?style=flat-square)
+  A complete **image segmentation pipeline** developed during **Ph.D. research**, combining superpixels, graph cuts, and region growing for **medical imaging**. Used in multiple published studies on histological tissue analysis and designed to be **reproducible** from raw data to final results.
+
+- [**📊 BIRL**](https://github.com/Borda/BIRL) ![stars](https://img.shields.io/github/stars/Borda/BIRL?style=flat-square) ![dependents](https://dependents.info/Borda/BIRL/badge?style=flat-square)
+  The **benchmarking engine** behind the **ANHIR** grand challenge at ISBI, which brought together teams worldwide to compare **image registration** methods on histological data. Automates the full pipeline from running registration to evaluating **alignment accuracy** using expert-annotated landmarks.
+
+- [**🧩 pyGCO**](https://github.com/Borda/pyGCO) ![stars](https://img.shields.io/github/stars/Borda/pyGCO?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/gco-wrapper?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Borda/pyGCO/badge?style=flat-square)
+  Makes the powerful GCO **graph-cut optimization** library accessible from **Python** without Cython compilation headaches. Widely used in **computer vision** research for image segmentation, stereo matching, and other labeling problems that benefit from **MRF energy minimization**.
+
+</details>
 
 **Notable contributions to other projects:**
 [ultralytics/YOLOv5](https://github.com/ultralytics/yolov5),
 [DIPY](https://github.com/dipy/dipy)
 and [more...](https://ossinsight.io/analyze/Borda)
-
-</details>
 
 ______________________________________________________________________
 
@@ -122,6 +144,7 @@ ______________________________________________________________________
 ### 🌐 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jirka--borovec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirka-borovec/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Jiri%20Borovec-00d0af?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jiri-Borovec)
 [![Kaggle](https://img.shields.io/badge/Kaggle-jirkaborovec-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jirkaborovec)
 [![Medium](https://img.shields.io/badge/Medium-@jborovec-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jborovec)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-jirka-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4521646/jirka)
