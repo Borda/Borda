@@ -10,23 +10,23 @@ ______________________________________________________________________
 
 ### 🛠️ Developer Track
 
-- Create & maintain several [open-source Python packages](https://ossinsight.io/analyze/Borda) used by thousands of developers
-- Contributed code, CI/CD pipelines, issue reports & reviews across the ML ecosystem
-- Strong focus on testing, automation, and developer experience — from pre-commit hooks to GitHub Actions
-- ![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jirkaborovec) achieved top-tier rankings across notebooks, competitions, and datasets, applying practical ML skills to real-world challenge problems and sharing my findings
+- Create & maintain several [**open-source Python packages**](https://ossinsight.io/analyze/Borda) used by thousands of developers
+- Contributed **code**, **CI/CD pipelines**, issue reports & reviews across the ML ecosystem
+- Strong focus on **testing**, **automation**, and **developer experience** — from pre-commit hooks to GitHub Actions
+- ![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jirkaborovec) achieved top-tier rankings across notebooks, competitions, and datasets, applying practical ML skills to **real-world challenge problems** and sharing my findings
 
 ### 🧑‍🏫 Manager Track
 
-- Built and led a team to deliver a scalable video-analysis platform from prototype to production
-- Head of the Lightning open-source team — coordinating feature roadmaps, release cycles & mentoring contributors across the [Lightning ecosystem](https://github.com/Lightning-AI)
+- Built and led a team to deliver a **scalable video-analysis platform** from prototype to production
+- **Director of Open Source** at [Lightning AI](https://github.com/Lightning-AI) — led the OSS team for 3+ years, driving **feature roadmaps**, **release cycles**, and **cross-team coordination** across PyTorch Lightning, TorchMetrics, and the broader Lightning ecosystem. Mentored contributors, scaled community engagement, and ensured quality across **10+ active repositories**
 - LinkedIn Learning certified in [Leadership Foundations](https://www.linkedin.com/learning/certificates/e74aaed7c5e13ea59be3a5ad282cc251f2e11873abb26d4e761951125f603164), [Leadership: Practical Skills](https://www.linkedin.com/learning/certificates/834dd2ea71872dd0f41bbbc3a1f84ada01555d3b85e65136ee8fecff7f1bead4), and [Leading Your Team Through Change](https://www.linkedin.com/learning/certificates/3268fcf3e33aae33b4115720af7f4ac4e7ad42138d23e625b9066e1a32b8fc9e)
 
 ### 🎓 Academic Track
 
-- Ph.D. in Medical Imaging — [Czech Technical University in Prague](https://fel.cvut.cz/)
-- [15+ journal articles & 20+ conference papers](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) (ISBI, ICIP, ACCV, MICCAI workshops)
-- [Reviewer](https://www.webofscience.com/wos/author/record/C-7457-2014) for IEEE TMI, TCIA and major international conferences
-- Co-organized the [ANHIR challenge](https://anhir.grand-challenge.org/) on histological image registration
+- **Ph.D. in Medical Imaging** — [Czech Technical University in Prague](https://fel.cvut.cz/)
+- [**15+ journal articles & 20+ conference papers**](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) (ISBI, ICIP, ACCV, MICCAI workshops)
+- [**Reviewer**](https://www.webofscience.com/wos/author/record/C-7457-2014) for IEEE TMI, TCIA and major **international conferences**
+- Co-organized the [**ANHIR challenge**](https://anhir.grand-challenge.org/) on **histological image registration**
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jiri%20Borovec-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0MFN7VkAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7437-824X)
