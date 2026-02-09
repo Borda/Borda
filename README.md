@@ -13,11 +13,13 @@ ______________________________________________________________________
 - Create & maintain several [open-source Python packages](https://ossinsight.io/analyze/Borda) used by thousands of developers
 - Contributed code, CI/CD pipelines, issue reports & reviews across the ML ecosystem
 - Strong focus on testing, automation, and developer experience — from pre-commit hooks to GitHub Actions
+- ![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jirkaborovec) achieved top-tier rankings across notebooks, competitions, and datasets, applying practical ML skills to real-world challenge problems and sharing my findings
 
 ### 🧑‍🏫 Manager Track
 
 - Built and led a team to deliver a scalable video-analysis platform from prototype to production
 - Head of the Lightning open-source team — coordinating feature roadmaps, release cycles & mentoring contributors across the [Lightning ecosystem](https://github.com/Lightning-AI)
+- LinkedIn Learning certified in [Leadership Foundations](https://www.linkedin.com/learning/certificates/e74aaed7c5e13ea59be3a5ad282cc251f2e11873abb26d4e761951125f603164), [Leadership: Practical Skills](https://www.linkedin.com/learning/certificates/834dd2ea71872dd0f41bbbc3a1f84ada01555d3b85e65136ee8fecff7f1bead4), and [Leading Your Team Through Change](https://www.linkedin.com/learning/certificates/3268fcf3e33aae33b4115720af7f4ac4e7ad42138d23e625b9066e1a32b8fc9e)
 
 ### 🎓 Academic Track
 
@@ -64,17 +66,8 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
 <details>
 <summary><b>Past core maintainer projects:</b></summary>
 
-- [**🧠 LitGPT**](https://github.com/Lightning-AI/litgpt) ![stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/litgpt?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/litgpt/badge?style=flat-square)
-  An opinionated, **hackable** codebase for working with 20+ LLMs — GPT, Llama, Mistral, and more. Unlike heavyweight frameworks, LitGPT uses **plain PyTorch** with no abstraction layers, making it easy to modify any part of the **training pipeline** while still getting optimized performance out of the box.
-
 - [**🛠️ Lightning Utilities**](https://github.com/Lightning-AI/utilities) ![stars](https://img.shields.io/github/stars/Lightning-AI/utilities?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/lightning-utilities?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/utilities/badge?style=flat-square)
   The shared foundation that keeps all Lightning projects consistent and maintainable. Extracts common patterns — **packaging helpers**, **testing utilities**, CLI tooling, and **CI/CD workflows** — into one place so that fixes and improvements propagate across the entire ecosystem automatically.
-
-- [**🚀 LitServe**](https://github.com/Lightning-AI/LitServe) ![stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/litserve?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/LitServe/badge?style=flat-square)
-  A lightweight alternative to heavy serving frameworks like Triton or vLLM for teams that need full control over their inference logic. Write your serving code in **pure Python** with built-in **batching**, **streaming**, and **GPU scaling** — deploy anywhere without **vendor lock-in**.
-
-- [**💾 LitData**](https://github.com/Lightning-AI/litData) ![stars](https://img.shields.io/github/stars/Lightning-AI/litData?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/litdata?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/litData/badge?style=flat-square)
-  Tackles the often-overlooked **data loading bottleneck** that slows down large-scale training. Lets you **stream** and process massive datasets on the fly without downloading everything first — turning hours of data prep into minutes with optimized **I/O** and **distributed processing**.
 
 - [**🔩 Lightning Bolts**](https://github.com/Lightning-Universe/lightning-bolts) ![stars](https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/lightning-bolts?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-Universe/lightning-bolts/badge?style=flat-square)
   A community-driven collection of **reference implementations** — VAEs, GANs, SimCLR, and more — built on PyTorch Lightning. Designed to give researchers battle-tested **baselines** they can **reproduce** in one command and extend for their own experiments.
@@ -82,22 +75,33 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
 - [**⚡ Lightning Flash**](https://github.com/Lightning-AI/lightning-flash) ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-flash?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/lightning-flash?style=flat-square&color=blueviolet)
   Made **transfer learning** as simple as a few lines of code across **15+ tasks** — image classification, object detection, text classification, tabular data, and more. Built on PyTorch Lightning, it let practitioners go from idea to **baseline** in minutes instead of hours.
 
+- [**🌩️ Lightning Thunder**](https://github.com/Lightning-AI/lightning-thunder) ![stars](https://img.shields.io/github/stars/Lightning-AI/lightning-thunder?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/lightning-thunder?style=flat-square&color=blueviolet)
+  A **source-to-source compiler** for PyTorch that delivers up to **40% faster** training and inference through kernel fusion, operator optimization, and GPU memory management. Unlike opaque compilers, Thunder provides a transparent, **Pythonic IR** that developers can inspect and customize — with composable plugins for **distributed training**, **quantization**, and CUDA Graphs.
+
+- [**📚 Lightning Tutorials**](https://github.com/Lightning-AI/tutorials) ![stars](https://img.shields.io/github/stars/Lightning-AI/tutorials?style=flat-square)
+  The official **tutorial collection** powering the PyTorch Lightning documentation. Uses a script-based format instead of heavy notebooks — automatically converting to **executable notebooks** with full **reproducibility** tracking, CI-tested across CPU, GPU, and TPU to ensure every example actually runs.
+
 - [**🔄 Ecosystem CI**](https://github.com/Lightning-AI/ecosystem-ci) ![stars](https://img.shields.io/github/stars/Lightning-AI/ecosystem-ci?style=flat-square)
   The safety net for the entire Lightning ecosystem — automatically runs **downstream test suites** against every **nightly build** and **release candidate**. Catches **breaking changes** before they ship, ensuring that hundreds of dependent projects don't break on upgrade day.
+
+- [**🧠 LitGPT**](https://github.com/Lightning-AI/litgpt) ![stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/litgpt?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Lightning-AI/litgpt/badge?style=flat-square)
+  An opinionated, **hackable** codebase for working with 20+ LLMs — GPT, Llama, Mistral, and more. Unlike heavyweight frameworks, LitGPT uses **plain PyTorch** with no abstraction layers, making it easy to modify any part of the **training pipeline** while still getting optimized performance out of the box.
 
 </details>
 
 <details>
 <summary><b>Past research projects:</b></summary>
 
-- [**🖼️ pyImSegm**](https://github.com/Borda/pyImSegm) ![stars](https://img.shields.io/github/stars/Borda/pyImSegm?style=flat-square) ![dependents](https://dependents.info/Borda/pyImSegm/badge?style=flat-square)
+- [**🖼️ pyImSegm**](https://github.com/Borda/pyImSegm) ![stars](https://img.shields.io/github/stars/Borda/pyImSegm?style=flat-square)
   A complete **image segmentation pipeline** developed during **Ph.D. research**, combining superpixels, graph cuts, and region growing for **medical imaging**. Used in multiple published studies on histological tissue analysis and designed to be **reproducible** from raw data to final results.
 
-- [**📊 BIRL**](https://github.com/Borda/BIRL) ![stars](https://img.shields.io/github/stars/Borda/BIRL?style=flat-square) ![dependents](https://dependents.info/Borda/BIRL/badge?style=flat-square)
+- [**📊 BIRL**](https://github.com/Borda/BIRL) ![stars](https://img.shields.io/github/stars/Borda/BIRL?style=flat-square)
   The **benchmarking engine** behind the **ANHIR** grand challenge at ISBI, which brought together teams worldwide to compare **image registration** methods on histological data. Automates the full pipeline from running registration to evaluating **alignment accuracy** using expert-annotated landmarks.
 
+<!--
 - [**🧩 pyGCO**](https://github.com/Borda/pyGCO) ![stars](https://img.shields.io/github/stars/Borda/pyGCO?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/gco-wrapper?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/Borda/pyGCO/badge?style=flat-square)
   Makes the powerful GCO **graph-cut optimization** library accessible from **Python** without Cython compilation headaches. Widely used in **computer vision** research for image segmentation, stereo matching, and other labeling problems that benefit from **MRF energy minimization**.
+-->
 
 </details>
 
@@ -125,12 +129,14 @@ ______________________________________________________________________
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Borda&hide_border=true)
 -->
 
-<!--
+______________________________________________________________________
+
+### 🏅 Kaggle Stats
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jirkaborovec/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jirkaborovec/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jirkaborovec/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jirkaborovec/discussion/light)
--->
 
 ______________________________________________________________________
 
