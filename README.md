@@ -2,7 +2,12 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=borda&color=green)
 [![OSS Insight](https://img.shields.io/badge/OSS%20Insight-Borda-blue?style=flat-square)](https://ossinsight.io/analyze/Borda)
-[![committers.top badge](https://user-badge.committers.top/czech_republic_public/Borda.svg)](https://user-badge.committers.top/czech_republic_public/Borda)
+[![committers.top badge](https://user-badge.committers.top/czech_republic_private/Borda.svg)](https://user-badge.committers.top/czech_republic_private/Borda)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jirka--borovec-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jirka-borovec/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jiri%20Borovec-4285F4?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=0MFN7VkAAAAJ)
+[![Kaggle](https://img.shields.io/badge/Kaggle-jirkaborovec-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/jirkaborovec)
+[![Medium](https://img.shields.io/badge/Medium-@jborovec-000000?style=flat-square&logo=medium)](https://medium.com/@jborovec)
 
 Machine Learning & Data Science researcher with a **Ph.D. in Medical Imaging** and years of R&D and consulting experience. I solve real-world problems by crafting state-of-the-art algorithms and turning them into robust, community-driven **Python libraries** 🐍. Passionate about open source, reproducible research, and scalable ML infrastructure.
 
@@ -10,27 +15,33 @@ ______________________________________________________________________
 
 ### 🛠️ Developer Track
 
-- Create & maintain several [**open-source Python packages**](https://ossinsight.io/analyze/Borda) used by thousands of developers
-- Contributed **code**, **CI/CD pipelines**, issue reports & reviews across the ML ecosystem
-- Strong focus on **testing**, **automation**, and **developer experience** — from pre-commit hooks to GitHub Actions
-- ![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jirkaborovec) achieved top-tier rankings across notebooks, competitions, and datasets, applying practical ML skills to **real-world challenge problems** and sharing my findings
+- Create & maintain several [**open-source Python packages**](https://ossinsight.io/analyze/Borda) used by thousands of developers.
+- Contributed **code**, **CI/CD pipelines**, issue reports & reviews across the ML ecosystem.
+- Strong focus on **testing**, **automation**, and **developer experience** — from pre-commit hooks to GitHub Actions.
+- Top-tier [Kaggle contributor](https://www.kaggle.com/jirkaborovec) across notebooks, competitions, and datasets — applied ML on real-world problems with published, reproducible work.
+
+<!--
+![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jirkaborovec)
+-->
 
 ### 🧑‍🏫 Manager Track
 
-- Built and led a team to deliver a **scalable video-analysis platform** from prototype to production
-- **Director of Open Source** at [Lightning AI](https://github.com/Lightning-AI) — led the OSS team for 3+ years, driving **feature roadmaps**, **release cycles**, and **cross-team coordination** across PyTorch Lightning, TorchMetrics, and the broader Lightning ecosystem. Mentored contributors, scaled community engagement, and ensured quality across **10+ active repositories**
-- LinkedIn Learning certified in [Leadership Foundations](https://www.linkedin.com/learning/certificates/e74aaed7c5e13ea59be3a5ad282cc251f2e11873abb26d4e761951125f603164), [Leadership: Practical Skills](https://www.linkedin.com/learning/certificates/834dd2ea71872dd0f41bbbc3a1f84ada01555d3b85e65136ee8fecff7f1bead4), and [Leading Your Team Through Change](https://www.linkedin.com/learning/certificates/3268fcf3e33aae33b4115720af7f4ac4e7ad42138d23e625b9066e1a32b8fc9e)
+- Built and led a team to deliver a **scalable video-analysis platform** from prototype to production.
+- **Director of Open Source** at [Lightning AI](https://github.com/Lightning-AI) — led the OSS team for 3+ years, driving **feature roadmaps**, **release cycles**, and **cross-team coordination** across PyTorch Lightning, TorchMetrics, and the broader Lightning ecosystem. Mentored contributors, scaled community engagement, and ensured quality across **10+ active repositories**.
+- LinkedIn Learning certified in [Leadership Foundations](https://www.linkedin.com/learning/certificates/e74aaed7c5e13ea59be3a5ad282cc251f2e11873abb26d4e761951125f603164), [Leadership: Practical Skills](https://www.linkedin.com/learning/certificates/834dd2ea71872dd0f41bbbc3a1f84ada01555d3b85e65136ee8fecff7f1bead4), and [Leading Your Team Through Change](https://www.linkedin.com/learning/certificates/3268fcf3e33aae33b4115720af7f4ac4e7ad42138d23e625b9066e1a32b8fc9e).
 
 ### 🎓 Academic Track
 
-- **Ph.D. in Medical Imaging** — [Czech Technical University in Prague](https://fel.cvut.cz/)
-- [**15+ journal articles & 20+ conference papers**](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) (ISBI, ICIP, ACCV, MICCAI workshops)
-- [**Reviewer**](https://www.webofscience.com/wos/author/record/C-7457-2014) for IEEE TMI, TCIA and major **international conferences**
-- Co-organized the [**ANHIR challenge**](https://anhir.grand-challenge.org/) on **histological image registration**
+- **Ph.D. in Medical Imaging** — [Czech Technical University in Prague](https://fel.cvut.cz/).
+- [**15+ journal articles & 20+ conference papers**](https://scholar.google.com/citations?user=0MFN7VkAAAAJ) (ISBI, ICIP, ACCV, MICCAI workshops).
+- [**Reviewer**](https://www.webofscience.com/wos/author/record/C-7457-2014) for IEEE TMI, TCIA and major **international conferences**.
+- Co-organized the [**ANHIR challenge**](https://anhir.grand-challenge.org/) on **histological image registration**.
 
+<!--
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jiri%20Borovec-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0MFN7VkAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7437-824X)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Jiri%20Borovec-00d0af?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jiri-Borovec)
+-->
 
 ______________________________________________________________________
 
@@ -52,8 +63,10 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
 - [**🗄️ cachier**](https://github.com/python-cachier/cachier) ![stars](https://img.shields.io/github/stars/python-cachier/cachier?style=flat-square) ![downloads](https://img.shields.io/pypi/dm/cachier?style=flat-square&color=blueviolet) ![dependents](https://dependents.info/python-cachier/cachier/badge?style=flat-square)
   Unlike `functools.lru_cache`, cachier **persists results** across sessions and even across machines. Ideal for caching expensive computations like API calls or data processing — supports **MongoDB** and **file-based** backends with built-in **staleness** handling, so cached results stay fresh without manual invalidation.
 
+<!--
 - [**📈 pyRepoStats**](https://github.com/Borda/pyRepoStats) ![stars](https://img.shields.io/github/stars/Borda/pyRepoStats?style=flat-square) ![dependents](https://dependents.info/Borda/pyRepoStats/badge?style=flat-square)
   Fills the gap between `git log` and full analytics platforms by generating quick **contribution stats** that include **issues** and **PR activity**. Built for maintainers who want a **lightweight health check** on their projects without setting up dashboards.
+-->
 
 **Emeritus maintainer** — projects I co-created and still partially supervise:
 
@@ -145,7 +158,7 @@ ______________________________________________________________________
 If you find my open-source work useful, consider [sponsoring me](https://github.com/sponsors/Borda) 💚
 I'm also available for **consulting & contract work** in ML, MLOps, and Python engineering — see [SUPPORT.md](SUPPORT.md) for details.
 
-______________________________________________________________________
+<!---
 
 ### 🌐 Get in Touch
 
@@ -154,3 +167,5 @@ ______________________________________________________________________
 [![Kaggle](https://img.shields.io/badge/Kaggle-jirkaborovec-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jirkaborovec)
 [![Medium](https://img.shields.io/badge/Medium-@jborovec-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jborovec)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-jirka-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4521646/jirka)
+
+-->
