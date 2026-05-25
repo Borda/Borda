@@ -1,0 +1,7 @@
+# JetBrains IDEs
+.idea/
+
+# AI generated
+.claude/state/
+.plans/
+.temp/

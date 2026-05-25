@@ -9,7 +9,22 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-jirkaborovec-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/jirkaborovec)
 [![Medium](https://img.shields.io/badge/Medium-@jborovec-000000?style=flat-square&logo=medium)](https://medium.com/@jborovec)
 
-Machine Learning & Data Science researcher with a **Ph.D. in Medical Imaging** and years of R&D and consulting experience. I solve real-world problems by crafting state-of-the-art algorithms and turning them into robust, community-driven **Python libraries** 🐍. Passionate about open source, reproducible research, and scalable ML infrastructure.
+**Open-source ML/CV systems maintainer.** I turn research-grade computer vision and PyTorch workflows into reliable Python libraries, reproducible benchmarks, clean APIs, and contributor-friendly maintainer systems. Background: __Ph.D. in Medical Imaging__, former Director of OSS at Lightning AI, and long-term practitioner across ML frameworks, CV tooling, and reproducible research.
+
+______________________________________________________________________
+
+### 🏆 Impact Ledger
+
+| Area                          | Artifacts                                                                                                                                                                                                                                                          | My role                                      | Contribution signature                                                            |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | --------------------------------------------------------------------------------- |
+| Computer vision systems       | [supervision](https://github.com/roboflow/supervision), [RF-DETR](https://github.com/roboflow/RF-DETR), [trackers](https://github.com/roboflow/trackers)                                                                                                           | Maintainer in the Roboflow CV ecosystem      | Model-agnostic detection, segmentation, tracking, adapters, examples, reliability |
+| PyTorch ecosystem (emeritus)  | [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning), [TorchMetrics](https://github.com/Lightning-AI/torchmetrics)                                                                                                                               | Former Director of OSS / emeritus maintainer | Training infrastructure, distributed metrics, OSS governance, releases            |
+| PyTorch ecosystem (past core) | [Lightning Utilities](https://github.com/Lightning-AI/utilities), Bolts, Flash, Thunder, Tutorials, Ecosystem CI, LitGPT                                                                                                                                           | Core maintainer / contributor                | Shared infra, reference implementations, tutorials, CI tooling, LLM tooling       |
+| Maintainer tooling            | [.github](https://github.com/Borda/.github), [AI-Rig](https://github.com/Borda/AI-Rig), [pyDeprecate](https://github.com/Borda/pyDeprecate), [affordable-GPU-CI](https://github.com/Borda/affordable-GPU-CI), [cachier](https://github.com/python-cachier/cachier) | Creator / maintainer                         | Defaults, agents, API migration, CI reliability, release discipline               |
+| Medical imaging & benchmarks  | [ANHIR](https://anhir.grand-challenge.org/), [BIRL](https://github.com/Borda/BIRL), [pyImSegm](https://github.com/Borda/pyImSegm)                                                                                                                                  | Researcher / organizer / library author      | Histology registration, segmentation, benchmarking, reproducibility               |
+| Community & applied ML        | [Kaggle](https://www.kaggle.com/jirkaborovec), [Medium](https://medium.com/@jborovec), tutorials, reviews                                                                                                                                                          | Practitioner / explainer / reviewer          | Reproducible notebooks, ML practice, public technical writing                     |
+
+I use "creator", "maintainer", "contributor", "emeritus maintainer", and "organizer" precisely. Large ecosystem projects are team efforts. My signature is turning research-grade ideas into durable, tested, user-facing Python systems — reliable interfaces, reproducible benchmarks, safe API evolution, and contributor-friendly maintainer infra.
 
 ______________________________________________________________________
 
@@ -18,7 +33,7 @@ ______________________________________________________________________
 - Create & maintain several [**open-source Python packages**](https://ossinsight.io/analyze/Borda) used by thousands of developers.
 - Contributed **code**, **CI/CD pipelines**, issue reports & reviews across the ML ecosystem.
 - Strong focus on **testing**, **automation**, and **developer experience** — from pre-commit hooks to GitHub Actions.
-- Top-tier [Kaggle contributor](https://www.kaggle.com/jirkaborovec) across notebooks, competitions, and datasets — applied ML on real-world problems with published, reproducible work.
+- [Kaggle contributor](https://www.kaggle.com/jirkaborovec) across notebooks, competitions, and datasets — applied ML on real-world problems with published, reproducible work.
 
 <!--
 ![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jirkaborovec)
@@ -26,8 +41,8 @@ ______________________________________________________________________
 
 ### 🧑‍🏫 Manager Track
 
-- Built and led a team to deliver a **scalable video-analysis platform** from prototype to production.
-- **Director of Open Source** at [Lightning AI](https://github.com/Lightning-AI) — led the OSS team for 3+ years, driving **feature roadmaps**, **release cycles**, and **cross-team coordination** across PyTorch Lightning, TorchMetrics, and the broader Lightning ecosystem. Mentored contributors, scaled community engagement, and ensured quality across **10+ active repositories**.
+- Built and led a team at _Kendaxa_ (startup, now defunct) — delivered a video-analysis platform from prototype to production.
+- **Former Director of Open Source** at [Lightning AI](https://github.com/Lightning-AI) — led the OSS team for 3+ years, driving **feature roadmaps**, **release cycles**, and **cross-team coordination** across PyTorch Lightning, TorchMetrics, and the broader Lightning ecosystem. Mentored contributors, scaled community engagement, and ensured quality across **10+ active repositories**.
 - LinkedIn Learning certified in [Leadership Foundations](https://www.linkedin.com/learning/certificates/e74aaed7c5e13ea59be3a5ad282cc251f2e11873abb26d4e761951125f603164), [Leadership: Practical Skills](https://www.linkedin.com/learning/certificates/834dd2ea71872dd0f41bbbc3a1f84ada01555d3b85e65136ee8fecff7f1bead4), and [Leading Your Team Through Change](https://www.linkedin.com/learning/certificates/3268fcf3e33aae33b4115720af7f4ac4e7ad42138d23e625b9066e1a32b8fc9e).
 
 ### 🎓 Academic Track
@@ -69,17 +84,19 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
   [![dependents](https://dependents.info/roboflow/trackers/badge?style=flat-square)](https://github.com/roboflow/trackers/network/dependents)
   Plug-and-play **multi-object tracking** for any detection model — YOLO, DETR, or anything that outputs bounding boxes. Ships clean-room implementations of **SORT**, **ByteTrack**, **OC-SORT**, and **BoT-SORT** rebuilt from the original papers, not wrapped forks. Integrates natively with `supervision.Detections` for zero-glue wiring, with pre-tuned parameters benchmarked across four standard MOT datasets.
 
+- [**⚙️ .github**](https://github.com/Borda/.github)
+  [![stars](https://img.shields.io/github/stars/Borda/.github?style=flat-square)](https://star-history.com/#Borda/.github)
+  Standards layer for ML/CV Python projects: default community files, templates, security policy, contributor guidance, and reusable CI/CD workflows. Shared foundation for consistent repo hygiene across projects.
+
+- [**🤖 AI-Rig**](https://github.com/Borda/AI-Rig)
+  [![stars](https://img.shields.io/github/stars/Borda/AI-Rig?style=flat-square)](https://star-history.com/#Borda/AI-Rig)
+  Execution layer for AI-assisted maintainer workflows: specialist agents for code review, release audit, and human-in-the-loop quality checks. Built to keep agents calibrated and maintainers in control.
+
 - [**♻️ pyDeprecate**](https://github.com/Borda/pyDeprecate)
   [![stars](https://img.shields.io/github/stars/Borda/pyDeprecate?style=flat-square)](https://star-history.com/#Borda/pyDeprecate)
   [![downloads](https://img.shields.io/pypi/dm/pyDeprecate?style=flat-square&color=blueviolet)](https://pepy.tech/project/pyDeprecate)
   [![dependents](https://dependents.info/Borda/pyDeprecate/badge?style=flat-square)](https://github.com/Borda/pyDeprecate/network/dependents)
   Born from the pain of managing API changes in large libraries like PyTorch Lightning. A **zero-dependency** tool that lets library authors **deprecate**, rename, and redirect functions or classes with **automatic call forwarding** — so users get clear **migration warnings** instead of silent breakage.
-
-- [**🗄️ cachier**](https://github.com/python-cachier/cachier)
-  [![stars](https://img.shields.io/github/stars/python-cachier/cachier?style=flat-square)](https://star-history.com/#python-cachier/cachier)
-  [![downloads](https://img.shields.io/pypi/dm/cachier?style=flat-square&color=blueviolet)](https://pepy.tech/project/cachier)
-  [![dependents](https://dependents.info/python-cachier/cachier/badge?style=flat-square)](https://github.com/python-cachier/cachier/network/dependents)
-  Unlike `functools.lru_cache`, cachier **persists results** across sessions and even across machines. Ideal for caching expensive computations like API calls or data processing — supports **MongoDB** and **file-based** backends with built-in **staleness** handling, so cached results stay fresh without manual invalidation.
 
 <!--
 - [**📈 pyRepoStats**](https://github.com/Borda/pyRepoStats)
@@ -101,6 +118,12 @@ Long-term open-source contributor and maintainer. My work spans ML frameworks, d
   [![downloads](https://img.shields.io/pypi/dm/torchmetrics?style=flat-square&color=blueviolet)](https://pepy.tech/project/torchmetrics)
   [![dependents](https://dependents.info/Lightning-AI/torchmetrics/badge?style=flat-square)](https://github.com/Lightning-AI/torchmetrics/network/dependents)
   The standard metrics library for the PyTorch ecosystem, solving the surprisingly hard problem of computing correct metrics in **distributed training**. Ships **100+ metrics** for classification, regression, NLP, and retrieval — all with automatic accumulation and **device synchronization** that just works across **multi-GPU** setups.
+
+- [**🗄️ cachier**](https://github.com/python-cachier/cachier)
+  [![stars](https://img.shields.io/github/stars/python-cachier/cachier?style=flat-square)](https://star-history.com/#python-cachier/cachier)
+  [![downloads](https://img.shields.io/pypi/dm/cachier?style=flat-square&color=blueviolet)](https://pepy.tech/project/cachier)
+  [![dependents](https://dependents.info/python-cachier/cachier/badge?style=flat-square)](https://github.com/python-cachier/cachier/network/dependents)
+  Unlike `functools.lru_cache`, cachier **persists results** across sessions and even across machines. Ideal for caching expensive computations like API calls or data processing — supports **MongoDB** and **file-based** backends with built-in **staleness** handling, so cached results stay fresh without manual invalidation.
 
 <details>
 <summary><b>Past core maintainer projects:</b></summary>
@@ -201,8 +224,16 @@ ______________________________________________________________________
 
 ### 💖 Support & Consulting
 
-If you find my open-source work useful, consider [sponsoring me](https://github.com/sponsors/Borda) 💚
-I'm also available for **consulting & contract work** in ML, MLOps, and Python engineering — see [SUPPORT.md](SUPPORT.md) for details.
+If my open-source work is useful, consider [sponsoring me](https://github.com/sponsors/Borda) 💚
+
+**Signature support areas** — see [SUPPORT.md](SUPPORT.md) for details:
+
+- **OSS Health Audit** — repository structure, CI, release process, docs, issue/PR flow, contributor experience, and maintenance risk.
+- **API Lifecycle & Migration Sprint** — versioning strategy, deprecation policy, migration warnings, compatibility layers, tests, and release notes for Python libraries.
+- **Computer Vision Pipeline Reliability Sprint** — detection, segmentation, tracking, adapter, fixture, evaluation, and reproducibility gaps in CV systems.
+- **AI-Assisted Maintainer Workflow Setup** — `.github` defaults, AI-Rig-style review workflows, release checks, PR Evidence Cards, and human-in-the-loop review for Python/ML OSS teams.
+
+__I do not sell generic AI adoption. I help teams make ML repositories maintainable, testable, and release-safe.__
 
 <!---
 
