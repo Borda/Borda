@@ -1,7 +1,10 @@
 # JetBrains IDEs
 .idea/
+.junie/
 
 # AI generated
+.cache/
 .claude/state/
 .plans/
+.reports/
 .temp/

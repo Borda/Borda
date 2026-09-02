@@ -224,9 +224,11 @@ ______________________________________________________________________
 
 ### 💖 Support & Consulting
 
-If my open-source work is useful, consider [sponsoring me](https://github.com/sponsors/Borda) 💚
+If my open-source work is useful, consider [sponsoring me](https://github.com/sponsors/Borda) 💚 — who sponsors and what it funded is recorded in [SPONSORS.md](SPONSORS.md).
 
-**Signature support areas** — see [SUPPORT.md](SUPPORT.md) for details:
+**Team workshops** — practitioner sessions on your own repositories: GitHub platform & governance · Actions for polyglot estates · supply-chain security in CI · agentic engineering with Claude Code/Copilot. One session, half day, full day, a two-session package, on-site in the EU, or a four-session programme — prices and terms in [SUPPORT.md](SUPPORT.md#-workshops--team-trainings).
+
+**Signature support areas** — priced in [SUPPORT.md](SUPPORT.md), bought as tiers on [GitHub Sponsors](https://github.com/sponsors/Borda):
 
 - **OSS Health Audit** — repository structure, CI, release process, docs, issue/PR flow, contributor experience, and maintenance risk.
 - **API Lifecycle & Migration Sprint** — versioning strategy, deprecation policy, migration warnings, compatibility layers, tests, and release notes for Python libraries.

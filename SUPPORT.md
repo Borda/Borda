@@ -24,6 +24,8 @@ Your sponsorship helps me dedicate more time to:
 
 > Even a small contribution keeps the lights on and the CI green 💚
 
+Who sponsors, what was delivered, and what the money funded is recorded in [SPONSORS.md](SPONSORS.md).
+
 ______________________________________________________________________
 
 ## 🤝 Hire Me — Consulting & Contract Work
@@ -32,7 +34,78 @@ I help teams make ML repositories **maintainable, testable, and release-safe** �
 
 **Get in touch:** 📧 [LinkedIn](https://www.linkedin.com/in/jirka-borovec/) — describe your situation and I'll respond within a few days.
 
-**Typical engagement:** 3–5 days for a report-only audit; 1–3 weeks for a sprint with working deliverables. Rates vary by scope — reach out to discuss.
+**How to pay.** Four things are clickable tiers on [GitHub Sponsors](https://github.com/sponsors/Borda) — a 60-minute call, a workshop session, a two-session workshop package, and monthly priority work in my projects — with no purchase order and no invoice cycle. Everything else on this page is agreed by email first and then paid through the custom tier: repository reviews and CI work, Claude Code guardrails, longer or on-site workshops, retainers, sprint weeks, and any private-code delivery.
+
+**Two prices, one rule.** The **OSS price** applies when the result is public: work on repositories under an OSI-approved licence, or an engagement where you agree to a public reference (your logo, a dated line in [SPONSORS.md](SPONSORS.md), a quotable sentence, and a short write-up I may publish — approved by you before it goes out). The **standard price**, roughly 50% higher, applies to private or proprietary code and to anything under NDA. The `reference: yes / no` question is settled in the scope email before work starts.
+
+**Scope limits.** Sponsored priority work covers only the projects I own or co-maintain — [AI-Rig](https://github.com/Borda/AI-Rig), [affordable-GPU-CI](https://github.com/Borda/affordable-GPU-CI), [fuse-augmentations](https://github.com/Borda/fuse-augmentations), [vision-delivery](https://github.com/Borda/vision-delivery), [pyDeprecate](https://github.com/Borda/pyDeprecate), [cachier](https://github.com/python-cachier/cachier) (co-maintained), and new projects of mine as they go public. The computer-vision libraries I maintain at Roboflow and the Lightning projects I co-created are funded elsewhere and are not for sale here. I don't sell merges or roadmap influence anywhere.
+
+**Typical engagement:** 3–5 days for a report-only audit; 1–3 weeks for a sprint with working deliverables.
+
+______________________________________________________________________
+
+## 🎓 Workshops & Team Trainings
+
+Practitioner sessions for engineering teams, built on your own repositories rather than slideware. This is the fastest way to move a whole team at once, and it is what most inbound requests ask for.
+
+### Topics
+
+- **T1 · GitHub platform & governance** — rulesets, required checks, org policy, branch and tag protection, CODEOWNERS.
+- **T2 · GitHub Actions for polyglot estates** — reusable workflows, matrices, caching, self-hosted and cheap GPU runners, cost control.
+- **T3 · Supply-chain security in CI** — SHA pinning, token permissions, `pull_request_target` and pwn-request patterns, secret handling, scanning.
+- **T4 · Agentic engineering with Claude Code / Copilot** — `CLAUDE.md` and rules, hooks, subagents, headless runs in CI, review guardrails, cost caps.
+
+### Formats
+
+Every format includes a 30-minute scoping call, demos on your own repositories, slides, internal recording rights, and a written Q&A follow-up. Six formats, from a single 2-hour session to a four-session programme, priced from $1,000.
+
+<details>
+<summary><b>Formats and prices</b></summary>
+
+| Format                                        | Delivery                      | OSS price   | Standard    | How to book             |
+| --------------------------------------------- | ----------------------------- | ----------- | ----------- | ----------------------- |
+| **W1** · one session                          | 2 h online                    | $1,000      | $1,600      | Sponsors tier           |
+| **W2** · half day                             | 4 h online                    | $1,400      | $2,100      | email, then custom tier |
+| **W3** · full day                             | 6 h online                    | $1,700      | $2,600      | email, then custom tier |
+| **W4** · package of two sessions              | 2 × 2 h online                | $1,800      | $2,800      | Sponsors tier           |
+| **W5** · on-site day in the EU                | W3 on site, travel at cost    | from $2,400 | from $3,500 | quote                   |
+| **W6** · programme, 4 sessions + office hours | 4 × 2 h + 4 office-hour slots | from $4,000 | from $6,000 | quote                   |
+
+</details>
+
+### Terms
+
+- **Attendance** up to 20 people is included; 21–40 is +25%; larger groups by quote — beyond 20 the demos stop working and the session turns into a lecture.
+- **Scheduling**: single sessions within ~6 weeks, packages within ~8 weeks. One free reschedule if moved at least 14 days out; later changes forfeit 50%.
+- **Recording** stays internal to your organisation. Publishing anything with your material needs written approval of the exact text.
+- **On-site (W5)**: EU destinations, 4 weeks' notice, travel and accommodation booked by you or reimbursed at cost, travel day billed at half rate.
+- **Programmes (W6)** and anything above 40 attendees are scoped in writing before payment.
+- Conference tutorials and meetup talks are arranged by email, not through this page.
+
+______________________________________________________________________
+
+## 💳 Prices at a glance
+
+Fixed prices for bounded work, floors for anything that needs scoping. Two columns: the OSS price when the result is public, the standard price for private or NDA work.
+
+<details>
+<summary><b>Full price list</b></summary>
+
+| Service                                         | OSS price   | Standard    | Where to buy       |
+| ----------------------------------------------- | ----------- | ----------- | ------------------ |
+| Ask-me-anything call, 60 min                    | $250        | $250        | Sponsors tier      |
+| CI & Actions health check, one repo             | $600        | $900        | email, then custom |
+| AI code review in your CI, one repo             | $700        | $1,000      | email, then custom |
+| Guardrails for Claude Code in a team repo       | $900        | $1,400      | email, then custom |
+| Workshops W1–W6                                 | from $1,000 | from $1,600 | see above          |
+| Priority work in my own projects, 3 h/month     | $350/mo     | —           | monthly tier       |
+| Advisor retainer, 10 h/month                    | $1,200/mo   | $1,700/mo   | email, then custom |
+| Sprint week, 5 days, scoped in writing          | from $4,500 | from $7,000 | quote              |
+| Monorepo programmes, larger retainers, NDA work | —           | by quote    | quote              |
+
+</details>
+
+Prices are in USD, matching GitHub Sponsors. Only four of these are clickable tiers — the call, the single workshop session, the two-session package, and monthly priority work; the rest are agreed by email and paid through the custom tier, so the ladder stays short and nothing gets bought by accident. "From" figures are floors that a scope conversation turns into a quote.
 
 ______________________________________________________________________
 
@@ -52,6 +125,10 @@ A prioritized findings report with concrete fixes — not a generic checklist. E
 - Maintainers preparing a major release or community hand-off
 - Sponsors or employers asking "is this project healthy enough to depend on?"
 
+**Price**
+
+Single-repo CI & Actions health check: **$600** public / **$900** private, agreed by email and paid through the custom tier, report within 10 business days. Full multi-repo audit: **from $4,500** public / **from $7,000** private, by quote.
+
 ______________________________________________________________________
 
 ### 🔄 API Lifecycle & Migration Sprint
@@ -70,6 +147,10 @@ Working deprecation machinery (patterns from [pyDeprecate](https://github.com/Bo
 - Teams dealing with silent regressions from gradual API drift
 - Maintainers who need to deprecate cleanly without breaking downstream users overnight
 
+**Price**
+
+Sprint week, scoped in writing: **from $4,500** public / **from $7,000** private, by quote and paid through the custom tier.
+
 ______________________________________________________________________
 
 ### 👁️ Computer Vision Pipeline Reliability Sprint
@@ -86,6 +167,10 @@ Identified gaps, added fixtures for critical adapter paths, reproducibility docu
 
 - Teams shipping CV systems to production who need confidence their pipeline handles edge cases
 - ML engineers inheriting a CV codebase with unclear test coverage
+
+**Price**
+
+Sprint week, scoped in writing: **from $4,500** public / **from $7,000** private, by quote and paid through the custom tier.
 
 ______________________________________________________________________
 
@@ -104,6 +189,10 @@ A configured `.github` overlay, working agent workflows for code review and rele
 - Maintainers who want AI in their loop without losing control or shipping hallucinated reviews
 - Teams scaling review capacity without scaling headcount
 - OSS projects preparing for community growth who need consistent triage and release hygiene
+
+**Price**
+
+AI code review in your CI, one repo: **$700** public / **$1,000** private. Claude Code guardrails in a team repo: **$900** public / **$1,400** private. Both agreed by email and paid through the custom tier, delivered within 10–15 business days as a PR plus a handover call. Monorepos by quote. Prefer to train the team instead of having it built? See **T4** under [Workshops](#-workshops--team-trainings).
 
 ______________________________________________________________________
 
