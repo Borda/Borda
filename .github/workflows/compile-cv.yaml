@@ -1,0 +1,30 @@
+name: Compile CV
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+    paths: ["cv-latex/**"]
+
+jobs:
+  latex-cv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Compile LaTeX CV
+        uses: xu-cheng/latex-action@v4
+        with:
+          working_directory: cv-latex
+          root_file: modern-short.tex
+          # latexmk with pdflatex, matching the Overleaf toolchain (runs bibtex automatically)
+          latexmk_use_xelatex: false
+
+      - name: Upload CV artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: CV-modern-short
+          path: cv-latex/modern-short.pdf
+          if-no-files-found: error
