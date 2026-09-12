@@ -8,3 +8,15 @@
 .plans/
 .reports/
 .temp/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+cv-latex/*.pdf
+
+# latexindent backups
+*.bak[0-9]*
+indent.log
