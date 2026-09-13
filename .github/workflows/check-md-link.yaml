@@ -19,6 +19,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           # default args: "--verbose --no-progress './**/*.md' './**/*.html' './**/*.rst'"
+          # linkedin.com excluded: answers HTTP 999 to any non-browser client (anti-bot), always fails in CI
           args: |
             --accept '200, 403'
             --verbose
@@ -28,4 +29,5 @@ jobs:
             './**/*.yaml'
             --include-verbatim
             --exclude https://ossinsight.io/analyze/Borda
+            --exclude linkedin.com
           fail: true
