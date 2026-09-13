@@ -9,11 +9,11 @@
 \usepackage{enumitem}
 \setlist[itemize]{noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=1.1em, label=\textbullet}
 \setlength{\hintscolumnwidth}{20mm} % Width of the dates column
-% Compact reference list (no inter-item glue)
+% Compact reference list, small inter-item gap so entries stay distinguishable
 \let\oldthebibliography\thebibliography
 \renewcommand{\thebibliography}[1]{%
   \oldthebibliography{#1}%
-  \setlength{\itemsep}{0pt}\setlength{\parsep}{0pt}\setlength{\topsep}{0pt}}
+  \setlength{\itemsep}{4pt}\setlength{\parsep}{0pt}\setlength{\topsep}{0pt}}
 \widowpenalty=10000
 \clubpenalty=10000
 
@@ -42,9 +42,9 @@
 %	PROFILE
 %----------------------------------------------------------------------------------------
 
-\cvitem[0.15em]{}{Ph.D.\ in medical imaging, founding engineer at Grid AI and later Director of Open Source (OSS) at Lightning AI; today \textbf{open-source engineer} in the Roboflow computer-vision (CV) ecosystem -- features, releases, DevOps and community -- independent \textbf{researcher} and \textbf{consultant}.
+\cvitem[0.15em]{}{Ph.D.\ in medical imaging from the Czech Technical University (CTU) in Prague, founding engineer at Grid AI and later Director of Open Source (OSS) at Lightning AI; today \textbf{open-source engineer} in the Roboflow computer-vision (CV) ecosystem -- features, releases, DevOps and community -- independent \textbf{researcher} and \textbf{consultant}.
 	I turn research-grade CV and PyTorch workflows into \textbf{reliable Python libraries}, \textbf{reproducible benchmarks} and contributor-friendly maintainer infrastructure -- increasingly with \textbf{AI-assisted engineering}.}
-\cvitem[0.15em]{Links}{\href{https://github.com/Borda}{github.com/Borda} $\cdot$ \href{https://www.linkedin.com/in/jirka-borovec/}{linkedin.com/in/jirka-borovec} $\cdot$ \href{https://scholar.google.com/citations?user=0MFN7VkAAAAJ}{Google Scholar}}
+\cvitem[0.15em]{Links}{\href{https://github.com/Borda}{github.com/Borda}~$\cdot$~\href{https://www.linkedin.com/in/jirka-borovec/}{linkedin.com/in/jirka-borovec}~$\cdot$~\href{https://scholar.google.com/citations?user=0MFN7VkAAAAJ}{Google Scholar}}
 
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE
@@ -86,11 +86,11 @@
 \cventry[0.15em]{2018 -- 2019}{Consultant \& Full-stack Researcher}{\textsc{DNAI}.ai}{Prague, Czechia}{}
 {Machine learning / data science projects from consulting and prototyping to \textbf{delivery with CI} and documentation; clients included Honeywell, Garrett and Invent-Medical.
 }
-\cventry[0.15em]{2011 -- 2019}{Research Scientist}{\textsc{Center for Machine Perception}, Czech Technical University (CTU) in Prague}{Czechia}{}
+\cventry[0.15em]{2011 -- 2019}{Research Scientist}{\textsc{Center for Machine Perception}, CTU in Prague}{Czechia}{}
 {Developed new methods in \textbf{biomedical image analysis} (segmentation, detection, dictionary learning) with experimental comparison to the state of the art; benchmarked \textbf{image registration} on multi-stain histology; created packages \href{https://borda.github.io/pyImSegm}{pyImSegm}, \href{https://borda.github.io/BIRL}{BIRL}, \href{https://borda.github.io/pyBPDL}{pyBPDL} and \href{https://imagej.net/CMP-BIA_tools}{jSLIC}; contributed to Scikit-image; published in and reviewed for international journals (IEEE Transactions on Medical Imaging, TCIA); \textbf{organized} the international image registration challenge \href{https://anhir.grand-challenge.org}{ANHIR} at ISBI.
 }
 \cvitem[0.1em]{2017 -- 2018}{Consultant \& ML Expert [contractor], \textsc{UserTech}, Prague -- automatic \textbf{landing-page decomposition} (convolutional neural networks, page cutting, layout clustering, dataset creation); early ML prototypes.}
-\cvitem[0.1em]{2017}{Visiting Researcher, \textsc{National Institute of Informatics}, Tokyo -- egg-chamber \textbf{segmentation and detection} in fluorescent microscopy; reached \textbf{96\% detection rate} against human annotation at 1\% false positives; supervised by prof.~Akihiro Sugimoto.}
+\cvitem[0.1em]{2017}{Visiting Researcher, \textsc{National Institute of Informatics}, Tokyo -- egg-chamber \textbf{segmentation and detection} in fluorescent microscopy, \textbf{96\% detection rate} at 1\% false positives.}
 \cvitem[0.1em]{2016}{Data Scientist [contractor], \textsc{Spaceknow}, Prague -- machine learning and cloud solutions for \textbf{satellite imagery}.}
 \cvitem[0.1em]{2011 -- 2016}{Teaching Assistant, Faculty of Electrical Engineering, CTU in Prague -- exercises for Imaging Systems in Medicine, and Dynamic and Robot Control.}
 \cvitem[0.1em]{2015}{Consultant \& Data Specialist, \textsc{IBM} Global Business Services, Prague -- Watson technologies, data analyses, image processing, early prototypes.}
@@ -105,14 +105,14 @@
 
 \section{Education}
 
-\cventry[0.15em]{2011 -- 2018}{Ph.D., Cybernetics}{\textsc{Czech Technical University in Prague}}{Czechia}{}
-{Thesis: \textbf{Analysis of microscopy images} -- gene expressions in Drosophila (segmentation, registration, dictionary learning); supervisor prof.~Jan Kybic.
+\cventry[0.15em]{2011 -- 2018}{Ph.D., Artificial Intelligence and Biocybernetics}{\textsc{CTU} in Prague}{Czechia}{}
+{Thesis: \href{http://hdl.handle.net/10467/75622}{\textbf{Analysis of microscopy images}} -- gene expressions in Drosophila (segmentation, registration, dictionary learning); supervisor prof.~Jan Kybic.
 }
 \cventry[0.15em]{2008 -- 2011}{MSc \& Ing., Intelligent Systems (double degree)}{\textsc{Universite Paul Sabatier}, Toulouse \& \textsc{Technical University of Liberec}}{France / Czechia}{}
-{Thesis: \textbf{Fusion of heterogeneous data for positioning of visually impaired pedestrians} (project NAVIG).
+{Thesis: \href{https://dspace.tul.cz/items/9573aa63-f320-47dd-b57b-e77afb30a202}{\textbf{Fusion of heterogeneous data for positioning of visually impaired pedestrians}} (project NAVIG).
 }
 \cventry[0.15em]{2005 -- 2008}{Bc., Electronic Information and Control Systems (with honours)}{\textsc{Technical University of Liberec}}{Czechia}{}
-{Thesis: \textbf{Graphical visualization of scene and control of mobile robot} (remote terminal, data processing, motion control).
+{Thesis: \href{https://dspace.tul.cz/items/35bc2d1b-a2bb-4e9d-8bf7-5137df99e3c4}{\textbf{Graphical visualization of scene and control of mobile robot}} (ultrasound sensor fusion, remote control).
 }
 \cvitem[0.15em]{Certificates}{LinkedIn Learning: Leadership Foundations $\cdot$ Leadership: Practical Skills $\cdot$ Leading Your Team Through Change}
 
@@ -178,6 +178,7 @@
 	\bibliographystyle{ieeetr}
 	\bibliography{MyPublications}
 }
+\vspace{3pt}
 \cvitem[0.15em]{Full list}{\href{https://scholar.google.com/citations?user=0MFN7VkAAAAJ}{Google Scholar} -- 15+ journal articles, 20+ conference papers}
 
 %----------------------------------------------------------------------------------------
