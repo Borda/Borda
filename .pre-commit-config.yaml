@@ -28,7 +28,7 @@ repos:
     rev: v2.4.2
     hooks:
       - id: codespell
-        args: ["--ignore-words-list=mot"]
+        args: ["--ignore-words-list=mot,bu"]
 
   - repo: https://github.com/executablebooks/mdformat
     rev: 1.0.0
@@ -38,3 +38,9 @@ repos:
         additional_dependencies:
           - mdformat-gfm
           - mdformat_frontmatter
+
+  - repo: https://github.com/cmhughes/latexindent.pl
+    rev: V4.0.2
+    hooks:
+      - id: latexindent
+        args: ["--overwriteIfDifferent", "--silent"]

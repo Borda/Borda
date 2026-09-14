@@ -1,0 +1,186 @@
+\documentclass[10pt,a4paper,sans]{moderncv}
+
+\moderncvstyle{casual} % CV theme: 'casual', 'classic', 'oldstyle', 'banking'
+\moderncvcolor{green}  % CV color: 'blue', 'orange', 'green', 'red', 'purple', 'grey', 'black'
+
+% Margins: footskip + includefoot reserve room for moderncv's two-line footer,
+% otherwise its second line (phone / e-mail / page number) is printed off the page.
+\usepackage[a4paper, top=10mm, bottom=10mm, left=13mm, right=13mm, footskip=13mm, includefoot]{geometry}
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=1.1em, label=\textbullet}
+\setlength{\hintscolumnwidth}{20mm} % Width of the dates column
+% Compact reference list, small inter-item gap so entries stay distinguishable
+\let\oldthebibliography\thebibliography
+\renewcommand{\thebibliography}[1]{%
+  \oldthebibliography{#1}%
+  \setlength{\itemsep}{4pt}\setlength{\parsep}{0pt}\setlength{\topsep}{0pt}}
+\widowpenalty=10000
+\clubpenalty=10000
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\firstname{Jiri}
+\familyname{Borovec, Ph.D.}
+
+\title{Computer Vision researcher $\cdot$ consultant $\cdot$ open-source engineer}
+% PRIVATE -- fill in locally before sending, do not commit real values
+\address{[street, number]}{[Czechia, Praha, 15800]}
+\mobile{[+420 XXX XXX XXX]}
+\email{[name@example.com]}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+\vspace{-5mm}
+\makecvtitle
+
+\vspace{-9mm}
+
+%----------------------------------------------------------------------------------------
+%	PROFILE
+%----------------------------------------------------------------------------------------
+
+\cvitem[0.15em]{}{Ph.D.\ in medical imaging from the Czech Technical University (CTU) in Prague, founding engineer at Grid AI and later Director of Open Source (OSS) at Lightning AI; today \textbf{open-source engineer} in the Roboflow computer-vision (CV) ecosystem -- features, releases, DevOps and community -- independent \textbf{researcher} and \textbf{consultant}.
+	I turn research-grade CV and PyTorch workflows into \textbf{reliable Python libraries}, \textbf{reproducible benchmarks} and contributor-friendly maintainer infrastructure -- increasingly with \textbf{AI-assisted engineering}.}
+\cvitem[0.15em]{Links}{\href{https://github.com/Borda}{github.com/Borda}~$\cdot$~\href{https://www.linkedin.com/in/jirka-borovec/}{linkedin.com/in/jirka-borovec}~$\cdot$~\href{https://scholar.google.com/citations?user=0MFN7VkAAAAJ}{Google Scholar}}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Work Experience}
+
+\cventry[0.15em]{2026 -- Now}{Senior Open Source Engineer}{\textsc{Roboflow}}{remote}{}
+{
+	\begin{itemize}
+		\item Maintain \href{https://github.com/roboflow/supervision}{supervision}, \href{https://github.com/roboflow/RF-DETR}{RF-DETR} and \href{https://github.com/roboflow/trackers}{trackers} -- model-agnostic \textbf{detection}, \textbf{segmentation} and \textbf{tracking} toolkits for real-world CV pipelines.
+		\item Build model adapters, examples, evaluation fixtures and reliability / continuous-integration (CI) work across the ecosystem; \textbf{clean-room tracker implementations} (SORT, ByteTrack, OC-SORT, BoT-SORT) benchmarked on standard multi-object-tracking (MOT) datasets.
+		\item Boosted \textbf{RF-DETR training throughput up to 10$\times$} on top-tier GPUs (graphics processing units).
+	\end{itemize}
+}
+\cventry[0.15em]{2011 -- Now}{Creator \& Maintainer, independent open-source projects}{}{}{}
+{
+	\begin{itemize}
+		\item Research tooling: \href{https://github.com/Borda/lucid-YOLO}{lucid-YOLO}, a \textbf{from-scratch} PyTorch Lightning reproduction of the YOLO (NMS-free aka YOLO26) methods, and \href{https://github.com/Borda/fuse-augmentations}{fuse-augmentations}, a tensor-first augmentation fusion engine.
+		\item Maintainer tooling: \textbf{AI-assisted} review/release workflows (\href{https://github.com/Borda/AI-Rig}{AI-Rig}), affordable GPU CI (\href{https://github.com/Borda/affordable-GPU-CI}{affordable-GPU-CI}), API deprecation (\href{https://github.com/Borda/pyDeprecate}{pyDeprecate}), persistent caching (\href{https://github.com/python-cachier/cachier}{cachier}).
+		\item Deliver \textbf{team workshops}: GitHub governance, Actions for polyglot estates, CI supply-chain security, agentic engineering.
+		\item Long-term contributor across the machine-learning (ML) ecosystem -- \textbf{code, CI pipelines, issue triage and reviews}.
+	\end{itemize}
+}
+\cventry[0.15em]{2020 -- 2025}{Founding Engineer $\gg$ Engineering Manager $\gg$ Director of OSS}{\textsc{Lightning AI}}{remote}{}
+{
+	\begin{itemize}
+		\item Oversaw the company's open-source strategy and contributions in deep learning; led a team of \textbf{8 research engineers} across \textbf{10+ public and internal projects}.
+		\item Developed and supervised \href{https://github.com/Lightning-AI/pytorch-lightning}{PyTorch Lightning} (\textbf{31k+ GitHub stars}, \textbf{12M+ monthly downloads}) and \href{https://github.com/Lightning-AI/torchmetrics}{TorchMetrics}, plus Tutorials, Ecosystem-CI and LitGPT.
+		\item Drove \textbf{feature roadmaps}, \textbf{release cycles} and cross-team coordination; mentored \textbf{100+ contributors} and scaled community engagement.
+		\item Built \textbf{Ecosystem-CI}, running downstream test suites against every nightly and release candidate -- caught \textbf{breaking changes before release} for hundreds of dependent projects.
+		\item Owned the \textbf{Application Programming Interface (API) lifecycle}: versioning strategy, deprecation policy with \textbf{automatic call forwarding} (origin of pyDeprecate), migration warnings and compatibility layers.
+		\item Developed product features such as \textbf{Model registry}; spearheaded a \textbf{CI bot} for GitHub.
+	\end{itemize}
+}
+\cventry[0.15em]{2018 -- 2020}{Full-stack Data Scientist \& Team Lead}{\textsc{Kendaxa}}{Prague, Czechia}{}
+{Led a computer-vision team as \textbf{solution architect}; delivered a \textbf{video-analysis platform} (automatic shop analyses from camera) from prototype to production.
+}
+\cventry[0.15em]{2018 -- 2019}{Consultant \& Full-stack Researcher}{\textsc{DNAI}.ai}{Prague, Czechia}{}
+{Machine learning / data science projects from consulting and prototyping to delivery with CI and documentation; clients included Honeywell, Garrett and Invent-Medical.
+}
+\cventry[0.15em]{2011 -- 2019}{Research Scientist}{\textsc{Center for Machine Perception}, CTU in Prague}{Czechia}{}
+{Developed new methods in \textbf{biomedical image analysis} (segmentation, detection, dictionary learning) with experimental comparison to the state of the art; benchmarked \textbf{image registration} on multi-stain histology; created packages \href{https://borda.github.io/pyImSegm}{pyImSegm}, \href{https://borda.github.io/BIRL}{BIRL}, \href{https://borda.github.io/pyBPDL}{pyBPDL} and \href{https://imagej.net/CMP-BIA_tools}{jSLIC}; contributed to Scikit-image; published in and reviewed for international journals (IEEE Transactions on Medical Imaging, TCIA); \textbf{organized} the international image registration challenge \href{https://anhir.grand-challenge.org}{ANHIR} at ISBI.
+}
+\cvitem[0.1em]{2017 -- 2018}{Consultant \& ML Expert [contractor], \textsc{UserTech}, Prague -- automatic \textbf{landing-page decomposition} (convolutional neural networks, page cutting, layout clustering, dataset creation); early ML prototypes.}
+\cvitem[0.1em]{2017}{Visiting Researcher, \textsc{National Institute of Informatics}, Tokyo -- egg-chamber \textbf{segmentation and detection} in fluorescent microscopy, \textbf{96\% detection rate} at 1\% false positives.}
+\cvitem[0.1em]{2016}{Data Scientist [contractor], \textsc{Spaceknow}, Prague -- machine learning and cloud solutions for \textbf{satellite imagery}.}
+\cvitem[0.1em]{2011 -- 2016}{Teaching Assistant, Faculty of Electrical Engineering, CTU in Prague -- exercises for Imaging Systems in Medicine, and Dynamic and Robot Control.}
+\cvitem[0.1em]{2015}{Consultant \& Data Specialist, \textsc{IBM} Global Business Services, Prague -- Watson technologies, data analyses, image processing, early prototypes.}
+\cvitem[0.1em]{2012}{Visiting Researcher, \textsc{CIMA}, Pamplona -- \textbf{segmentation \& registration} of histology microscopy images.}
+\cvitem[0.1em]{2011}{Research Intern, \textsc{IRIT}, Toulouse -- \textbf{data fusion} for localization of visually impaired people (project NAVIG).}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\clearpage
+
+\section{Education}
+
+\cventry[0.15em]{2011 -- 2018}{Ph.D., Artificial Intelligence and Biocybernetics}{\textsc{CTU} in Prague}{Czechia}{}
+{Thesis: \href{http://hdl.handle.net/10467/75622}{\textbf{Analysis of microscopy images}} -- gene expressions in Drosophila (segmentation, registration, dictionary learning); supervisor prof.~Jan Kybic.
+}
+\cventry[0.15em]{2008 -- 2011}{MSc \& Ing., Intelligent Systems (double degree)}{\textsc{Universite Paul Sabatier}, Toulouse \& \textsc{Technical University of Liberec}}{France / Czechia}{}
+{Thesis: \href{https://dspace.tul.cz/items/9573aa63-f320-47dd-b57b-e77afb30a202}{\textbf{Fusion of heterogeneous data for positioning of visually impaired pedestrians}} (project NAVIG).
+}
+\cventry[0.15em]{2005 -- 2008}{Bc., Electronic Information and Control Systems (with honours)}{\textsc{Technical University of Liberec}}{Czechia}{}
+{Thesis: \href{https://dspace.tul.cz/items/35bc2d1b-a2bb-4e9d-8bf7-5137df99e3c4}{\textbf{Graphical visualization of scene and control of mobile robot}} (ultrasound sensor fusion, remote control).
+}
+\cvitem[0.15em]{Certificates}{LinkedIn Learning: Leadership Foundations $\cdot$ Leadership: Practical Skills $\cdot$ Leading Your Team Through Change}
+
+%----------------------------------------------------------------------------------------
+%	SKILLS
+%----------------------------------------------------------------------------------------
+
+\section{Skills}
+
+\cvitem[0.15em]{Domains}{Computer vision (detection, segmentation, tracking), machine learning, deep learning, medical imaging, reproducible benchmarking}
+\cvitem[0.15em]{Stack}{Python, PyTorch, PyTorch Lightning, TorchMetrics, NumPy/SciPy, C/C++, SQL, \LaTeX}
+\cvitem[0.15em]{OSS practice}{GitHub governance (templates, org defaults), GitHub Actions CI/CD, Python packaging \& releases, API deprecation \& migration}
+\cvitem[0.15em]{AI tooling}{AI-assisted full development cycle -- planning, strategy, feature delivery, testing, documentation, bugfix and code review (Claude Code, Codex, GitHub Copilot)}
+\cvitem[0.15em]{Platform}{Linux (administration level), Git, Docker, cloud services}
+\cvitem[0.15em]{Languages}{English (fluent), Czech (mother tongue), French (A2), Spanish (basic)}
+
+%----------------------------------------------------------------------------------------
+%	OPEN SOURCE
+%----------------------------------------------------------------------------------------
+
+\section{Open Source}
+
+\cvitem[0.15em]{Maintainer}{\href{https://github.com/roboflow/supervision}{supervision}, \href{https://github.com/roboflow/RF-DETR}{RF-DETR}, \href{https://github.com/roboflow/trackers}{trackers} (Roboflow CV ecosystem); \href{https://github.com/Borda/lucid-YOLO}{lucid-YOLO}, \href{https://github.com/Borda/fuse-augmentations}{fuse-augmentations}, \href{https://github.com/Borda/AI-Rig}{AI-Rig}, \href{https://github.com/Borda/pyDeprecate}{pyDeprecate}, \href{https://github.com/python-cachier/cachier}{cachier} (creator / maintainer)}
+\cvitem[0.15em]{Emeritus}{\href{https://github.com/Lightning-AI/pytorch-lightning}{PyTorch Lightning}, \href{https://github.com/Lightning-AI/torchmetrics}{TorchMetrics}; past core: Lightning Utilities, Bolts, Flash, Thunder, Tutorials, Ecosystem-CI}
+\cvitem[0.15em]{Research}{\href{https://anhir.grand-challenge.org}{ANHIR}, \href{https://github.com/Borda/BIRL}{BIRL}, \href{https://github.com/Borda/pyImSegm}{pyImSegm}; contributions to YOLOv5, DIPY, Scikit-image}
+\cvitem[0.15em]{Community}{\href{https://www.kaggle.com/jirkaborovec}{Kaggle} \textbf{Notebooks Master} (Expert in competitions, datasets, discussions); technical writing on \href{https://medium.com/@jborovec}{Medium}; among \textbf{top-30 OSS committers in Czechia} (\href{https://user-badge.committers.top/czech_republic_private/Borda}{committers.top})}
+
+%----------------------------------------------------------------------------------------
+%	AWARDS & ACTIVITIES
+%----------------------------------------------------------------------------------------
+
+\section{Awards \& Activities}
+
+\cvitem[0.15em]{Awards}{
+	2016 Best paper award, MCMIAA workshop at ACCV (Taipei, Taiwan) $\cdot$
+	2019 Travel grant, NEUBIAS/COST (ISBI, Venice) $\cdot$
+	2017 Travel award, MICCAI society (Quebec) $\cdot$
+	2013 Poster award, student conference (CTU in Prague) $\cdot$
+	2008 Top ranked, STO\v{C} $\cdot$
+	2006, 2007 Scholarship for excellent study results, TU Liberec
+}
+\cvitem[0.15em]{Activities}{
+	2014--2015 Project Manager, SKPR -- Student Club for Project Management $\cdot$
+	2014--2015 Lector, AMAVET $\cdot$
+	2012--2015 Coordinator, International Student Club at CTU $\cdot$
+	2008--2009 Chairman, Dormitory Council of TU Liberec
+}
+\cvitem[0.15em]{Interests}{Self-education (Coursera, edX, Udacity), paragliding, photography, fishing, hiking}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+\renewcommand{\refname}{Selected Publications}
+{\small
+	\nocite{
+		Detlefsen2022,
+		Borovec2020,
+		Borovec2018,
+		Borovec2017b,
+		Borovec2016a}
+	% Borovec2017a, Borovec2017, Borovec2014, Borovec2013
+	\bibliographystyle{ieeetr}
+	\bibliography{MyPublications}
+}
+\vspace{3pt}
+\cvitem[0.15em]{Full list}{\href{https://scholar.google.com/citations?user=0MFN7VkAAAAJ}{Google Scholar} -- 15+ journal articles, 20+ conference papers}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
